@@ -1,0 +1,3077 @@
+[
+  {
+    "id": 56015,
+    "name": "Aggregate sheath spot",
+    "scientific_name": "Ceratobasidium setariae"
+  },
+  {
+    "id": 9463,
+    "name": "alfalfa leaf spot",
+    "scientific_name": "Pseudopeziza medicaginis"
+  },
+  {
+    "id": 9514,
+    "name": "Alternaria black molds / stem cankers",
+    "scientific_name": "Alternaria spp."
+  },
+  {
+    "id": 16544,
+    "name": "Alternaria blight",
+    "scientific_name": "Alternaria dauci"
+  },
+  {
+    "id": 17699,
+    "name": "Alternaria blight",
+    "scientific_name": "Alternaria panax"
+  },
+  {
+    "id": 17700,
+    "name": "Alternaria blight",
+    "scientific_name": "Alternaria tenuissima"
+  },
+  {
+    "id": 18663,
+    "name": "Alternaria blight",
+    "scientific_name": "Alternaria dianthicola"
+  },
+  {
+    "id": 18858,
+    "name": "Alternaria blight",
+    "scientific_name": "Alternaria zinniae"
+  },
+  {
+    "id": 11007,
+    "name": "Alternaria blotch of apple",
+    "scientific_name": "Alternaria mali"
+  },
+  {
+    "id": 9507,
+    "name": "Alternaria leaf blight",
+    "scientific_name": "Alternaria cucumerina"
+  },
+  {
+    "id": 56021,
+    "name": "Alternaria leaf spot",
+    "scientific_name": "Alternaria padwickii"
+  },
+  {
+    "id": 9425,
+    "name": "angular leaf spot of cotton",
+    "scientific_name": "Xanthomonas citri ssp. malvacearum"
+  },
+  {
+    "id": 11180,
+    "name": "angular leaf spot of strawberry",
+    "scientific_name": "Xanthomonas fragariae"
+  },
+  {
+    "id": 13473,
+    "name": "anthracnose",
+    "scientific_name": "Apiognomonia quercina"
+  },
+  {
+    "id": 6942,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum nicotianae"
+  },
+  {
+    "id": 9443,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum truncatum"
+  },
+  {
+    "id": 9460,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum graminicola"
+  },
+  {
+    "id": 9499,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum coccodes"
+  },
+  {
+    "id": 9501,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum orbiculare"
+  },
+  {
+    "id": 666,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum spp."
+  },
+  {
+    "id": 675,
+    "name": "anthracnose",
+    "scientific_name": "Gnomonia spp."
+  },
+  {
+    "id": 818,
+    "name": "anthracnose",
+    "scientific_name": "Apiognomonia errabunda"
+  },
+  {
+    "id": 844,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum acutatum"
+  },
+  {
+    "id": 23188,
+    "name": "anthracnose",
+    "scientific_name": "Gloeosporium spp."
+  },
+  {
+    "id": 56007,
+    "name": "anthracnose",
+    "scientific_name": "Polystigma fulvum"
+  },
+  {
+    "id": 58257,
+    "name": "anthracnose",
+    "scientific_name": "Phyllachora repens"
+  },
+  {
+    "id": 19000,
+    "name": "anthracnose",
+    "scientific_name": "Elsinoe veneta"
+  },
+  {
+    "id": 20581,
+    "name": "anthracnose",
+    "scientific_name": "Apiognomonia spp."
+  },
+  {
+    "id": 20824,
+    "name": "anthracnose",
+    "scientific_name": "Monostichella spp."
+  },
+  {
+    "id": 18883,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum dematium"
+  },
+  {
+    "id": 18885,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum trifolii"
+  },
+  {
+    "id": 17752,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum fragariae"
+  },
+  {
+    "id": 17754,
+    "name": "anthracnose",
+    "scientific_name": "Colletotrichum higginsianum"
+  },
+  {
+    "id": 78237,
+    "name": "anthracnose",
+    "scientific_name": "Ophiodothella orchidearum"
+  },
+  {
+    "id": 80513,
+    "name": "anthracnose",
+    "scientific_name": "Gloeosporium coryli"
+  },
+  {
+    "id": 78856,
+    "name": "anthracnose (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 11081,
+    "name": "Anthracnose, pink boll rot or seedling blight of cotton",
+    "scientific_name": "Colletotrichum gossypii"
+  },
+  {
+    "id": 9478,
+    "name": "apple scab",
+    "scientific_name": "Venturia inaequalis"
+  },
+  {
+    "id": 12225,
+    "name": "apricot chlorotic leafroll",
+    "scientific_name": "Candidatus Phytoplasma asteris-related strain ACLR"
+  },
+  {
+    "id": 11196,
+    "name": "arabis mosaic virus (ArMV)",
+    "scientific_name": "Nepovirus ArMV"
+  },
+  {
+    "id": 75390,
+    "name": "arborvitae needle blight",
+    "scientific_name": "Phyllosticta thujae"
+  },
+  {
+    "id": 19017,
+    "name": "Ascochyta blight",
+    "scientific_name": "Ascochyta lentis"
+  },
+  {
+    "id": 17702,
+    "name": "Ascochyta blight",
+    "scientific_name": "Ascochyta compositarum"
+  },
+  {
+    "id": 14270,
+    "name": "Ascochyta blight of chickpea",
+    "scientific_name": "Ascochyta rabiei"
+  },
+  {
+    "id": 9422,
+    "name": "Ascochyta blight of cotton",
+    "scientific_name": "Ascochyta gossypii"
+  },
+  {
+    "id": 14991,
+    "name": "Ascochyta fungi",
+    "scientific_name": "Ascochyta spp."
+  },
+  {
+    "id": 78739,
+    "name": "Ascochyta fungi",
+    "scientific_name": "Ascochyta tenerrima"
+  },
+  {
+    "id": 80514,
+    "name": "Ascochyta fungi",
+    "scientific_name": "Mycosphaerella convallariae"
+  },
+  {
+    "id": 18864,
+    "name": "Ascochyta leaf blight",
+    "scientific_name": "Ascochyta pisi"
+  },
+  {
+    "id": 63146,
+    "name": "Ascochyta leaf spot",
+    "scientific_name": "Ascochyta hordei"
+  },
+  {
+    "id": 77830,
+    "name": "ascomycete fungi",
+    "scientific_name": "Pleospora spp."
+  },
+  {
+    "id": 16515,
+    "name": "ash anthracnose",
+    "scientific_name": "Gnomoniella fraxini"
+  },
+  {
+    "id": 905,
+    "name": "ash leaf spot",
+    "scientific_name": "Mycosphaerella fraxinicola"
+  },
+  {
+    "id": 696,
+    "name": "ash rusts",
+    "scientific_name": "Puccinia sparganioides"
+  },
+  {
+    "id": 11330,
+    "name": "aster yellows phytoplasma",
+    "scientific_name": "Candidatus Phytoplasma asteris-related strain"
+  },
+  {
+    "id": 14966,
+    "name": "avocado scab",
+    "scientific_name": "Sphaceloma perseae"
+  },
+  {
+    "id": 11182,
+    "name": "bacterial leaf blight of rice",
+    "scientific_name": "Xanthomonas oryzae pv. oryzae"
+  },
+  {
+    "id": 11184,
+    "name": "bacterial leaf streak",
+    "scientific_name": "Xanthomonas oryzae pv. oryzicola"
+  },
+  {
+    "id": 56506,
+    "name": "bacterial spot of tomato and pepper",
+    "scientific_name": "Xanthomonas euvesicatoria"
+  },
+  {
+    "id": 13096,
+    "name": "bakanae of rice",
+    "scientific_name": "Fusarium fujikuroi"
+  },
+  {
+    "id": 14928,
+    "name": "bamboo rust",
+    "scientific_name": "Puccinia phyllostachydis"
+  },
+  {
+    "id": 9458,
+    "name": "barley leaf stripe",
+    "scientific_name": "Pyrenophora graminea"
+  },
+  {
+    "id": 9462,
+    "name": "barley scald",
+    "scientific_name": "Rhynchosporium secalis"
+  },
+  {
+    "id": 11197,
+    "name": "barley stripe mosaic virus (BSMV)",
+    "scientific_name": "Hordeivirus BSMV"
+  },
+  {
+    "id": 60293,
+    "name": "basil downy mildew",
+    "scientific_name": "Peronospora belbahrii"
+  },
+  {
+    "id": 11125,
+    "name": "bean angular leaf spot",
+    "scientific_name": "Phaeoisariopsis griseola"
+  },
+  {
+    "id": 9543,
+    "name": "bean anthracnose",
+    "scientific_name": "Colletotrichum lindemuthianum"
+  },
+  {
+    "id": 9542,
+    "name": "bean rust",
+    "scientific_name": "Uromyces phaseoli var. typica"
+  },
+  {
+    "id": 11199,
+    "name": "beet curly top virus (BCTV)",
+    "scientific_name": "Hybrigeminivirus BCTV"
+  },
+  {
+    "id": 11200,
+    "name": "beet leaf curl virus (BLCV)",
+    "scientific_name": "Rhabdovirus BLCV"
+  },
+  {
+    "id": 78085,
+    "name": "Bipolaris blight",
+    "scientific_name": "Bipolaris cactivora"
+  },
+  {
+    "id": 18977,
+    "name": "Bipolaris fungus",
+    "scientific_name": "Bipolaris spicifera"
+  },
+  {
+    "id": 13499,
+    "name": "birch rust",
+    "scientific_name": "Melampsoridium betulinum"
+  },
+  {
+    "id": 17892,
+    "name": "bitter leaf",
+    "scientific_name": "Ceratocystis paradoxa"
+  },
+  {
+    "id": 14285,
+    "name": "black Sigatoka disease",
+    "scientific_name": "Mycosphaerella fijiensis"
+  },
+  {
+    "id": 9528,
+    "name": "black spot",
+    "scientific_name": "Diplocarpon rosae"
+  },
+  {
+    "id": 17695,
+    "name": "black spot",
+    "scientific_name": "Alternaria brassicae"
+  },
+  {
+    "id": 17696,
+    "name": "black spot",
+    "scientific_name": "Alternaria brassicicola"
+  },
+  {
+    "id": 77156,
+    "name": "black spot",
+    "scientific_name": "Trabutia erythrospora"
+  },
+  {
+    "id": 78165,
+    "name": "black spot",
+    "scientific_name": "Asperisporium moringae"
+  },
+  {
+    "id": 11276,
+    "name": "black spot of elm",
+    "scientific_name": "Stegophora ulmea"
+  },
+  {
+    "id": 11006,
+    "name": "black spot of Japanese pear",
+    "scientific_name": "Alternaria kikuchiana"
+  },
+  {
+    "id": 14932,
+    "name": "black spot of papaya",
+    "scientific_name": "Asperisporium caricae"
+  },
+  {
+    "id": 56305,
+    "name": "black tip of fruit",
+    "scientific_name": "Deightoniella torulosa"
+  },
+  {
+    "id": 6938,
+    "name": "blue mold",
+    "scientific_name": "Peronospora tabacina"
+  },
+  {
+    "id": 80796,
+    "name": "blueberry leaf rust",
+    "scientific_name": "Naohidemyces vaccinii"
+  },
+  {
+    "id": 16517,
+    "name": "Blumeriella leaf spot of cherry and plum",
+    "scientific_name": "Blumeriella jaapii"
+  },
+  {
+    "id": 17712,
+    "name": "Botryotinia blight",
+    "scientific_name": "Botryotinia fuckeliana"
+  },
+  {
+    "id": 17714,
+    "name": "Botrytis blight",
+    "scientific_name": "Botrytis elliptica"
+  },
+  {
+    "id": 16555,
+    "name": "Botrytis leaf blight",
+    "scientific_name": "Botrytis squamosa"
+  },
+  {
+    "id": 13431,
+    "name": "bronze leaf disease",
+    "scientific_name": "Apioplagiostoma spp."
+  },
+  {
+    "id": 13432,
+    "name": "bronze leaf disease",
+    "scientific_name": "Apioplagiostoma populi"
+  },
+  {
+    "id": 676,
+    "name": "brown felt blight",
+    "scientific_name": "Herpotrichia juniperi"
+  },
+  {
+    "id": 689,
+    "name": "brown felt blight of pines",
+    "scientific_name": "Neopeckia coulteri"
+  },
+  {
+    "id": 11113,
+    "name": "Brown needle blight of pine",
+    "scientific_name": "Mycosphaerella gibsonii"
+  },
+  {
+    "id": 14923,
+    "name": "brown rust",
+    "scientific_name": "Puccinia tanaceti"
+  },
+  {
+    "id": 80516,
+    "name": "brown rust",
+    "scientific_name": "Puccinia chrysanthemi"
+  },
+  {
+    "id": 6947,
+    "name": "brown spot",
+    "scientific_name": "Alternaria alternata"
+  },
+  {
+    "id": 19724,
+    "name": "brown spot needle blight of pine",
+    "scientific_name": "Mycosphaerella dearnessii"
+  },
+  {
+    "id": 9447,
+    "name": "brown spot of corn",
+    "scientific_name": "Physoderma maydis"
+  },
+  {
+    "id": 10794,
+    "name": "brown spot of rice",
+    "scientific_name": "Cochliobolus miyabeanus"
+  },
+  {
+    "id": 82622,
+    "name": "Camellia blister blight",
+    "scientific_name": "Exobasidium vexans"
+  },
+  {
+    "id": 11047,
+    "name": "camellia flower blight",
+    "scientific_name": "Ciborinia camelliae"
+  },
+  {
+    "id": 9525,
+    "name": "camellia leaf gall",
+    "scientific_name": "Exobasidium camelliae"
+  },
+  {
+    "id": 984,
+    "name": "canker and die back of Siberian Elm",
+    "scientific_name": "Tubercularia ulmea"
+  },
+  {
+    "id": 16545,
+    "name": "carrot leaf blight",
+    "scientific_name": "Cercospora carotae"
+  },
+  {
+    "id": 16595,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora capsici"
+  },
+  {
+    "id": 17720,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora asparagi"
+  },
+  {
+    "id": 17723,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora fici"
+  },
+  {
+    "id": 17724,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora fusimaculans"
+  },
+  {
+    "id": 17726,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora handelii"
+  },
+  {
+    "id": 17728,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora hydrangeae"
+  },
+  {
+    "id": 17730,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora liquidambaris"
+  },
+  {
+    "id": 17732,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora nandinae"
+  },
+  {
+    "id": 18949,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora beticola"
+  },
+  {
+    "id": 19265,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora apii"
+  },
+  {
+    "id": 19266,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora canescens"
+  },
+  {
+    "id": 20221,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora citrullina"
+  },
+  {
+    "id": 9475,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora arachidicola"
+  },
+  {
+    "id": 80887,
+    "name": "Cercospora leaf spot",
+    "scientific_name": "Cercospora pulcherrima"
+  },
+  {
+    "id": 15455,
+    "name": "Cercospora leaf spot of rose",
+    "scientific_name": "Cercospora rosicola"
+  },
+  {
+    "id": 17741,
+    "name": "Cercosporella leaf spot",
+    "scientific_name": "Cercosporella mori"
+  },
+  {
+    "id": 17742,
+    "name": "Cercosporella leaf spot",
+    "scientific_name": "Cercosporella rubi"
+  },
+  {
+    "id": 20816,
+    "name": "Cercosporella leaf spots",
+    "scientific_name": "Cercosporella spp."
+  },
+  {
+    "id": 20550,
+    "name": "Chaetoseptoria leaf spot",
+    "scientific_name": "Chaetoseptoria wellmanii"
+  },
+  {
+    "id": 11206,
+    "name": "cherry necrotic rusty mottle virus (CNRMV)",
+    "scientific_name": "Foveavirus CNRMV"
+  },
+  {
+    "id": 11207,
+    "name": "cherry rasp leaf virus (CRLV)",
+    "scientific_name": "Nepovirus CRLV"
+  },
+  {
+    "id": 4772,
+    "name": "cherry-spruce rust",
+    "scientific_name": "Pucciniastrum areolatum"
+  },
+  {
+    "id": 11209,
+    "name": "chrysanthemum stunt viroid (CSVd)",
+    "scientific_name": "Pospiviroid CSVd"
+  },
+  {
+    "id": 4780,
+    "name": "chrysanthemum white rust",
+    "scientific_name": "Puccinia horiana"
+  },
+  {
+    "id": 4824,
+    "name": "Chrysomyxa rust of spruce",
+    "scientific_name": "Chrysomyxa ledi"
+  },
+  {
+    "id": 9406,
+    "name": "citrus black spot",
+    "scientific_name": "Guignardia citricarpa"
+  },
+  {
+    "id": 11278,
+    "name": "citrus blight disease",
+    "scientific_name": ""
+  },
+  {
+    "id": 4695,
+    "name": "citrus greening",
+    "scientific_name": "Candidatus Liberibacter asiaticus"
+  },
+  {
+    "id": 14608,
+    "name": "Citrus Leprosis Virus",
+    "scientific_name": "Unassigned Rhabdovirus CiLV"
+  },
+  {
+    "id": 11279,
+    "name": "citrus tatter leaf virus (CTLV)",
+    "scientific_name": "Capillovirus CTLV"
+  },
+  {
+    "id": 65513,
+    "name": "Cladosporium fungi",
+    "scientific_name": "Cladosporium echinulatum"
+  },
+  {
+    "id": 64025,
+    "name": "Cladosporium fungi",
+    "scientific_name": "Cladosporium spp."
+  },
+  {
+    "id": 61991,
+    "name": "Cladosporium leaf blotch",
+    "scientific_name": "Cladosporium allii"
+  },
+  {
+    "id": 65830,
+    "name": "Cladosporium leaf spot",
+    "scientific_name": "Cladosporium variabile"
+  },
+  {
+    "id": 9468,
+    "name": "clover leaf spot",
+    "scientific_name": "Pseudopeziza trifolii"
+  },
+  {
+    "id": 17709,
+    "name": "Cochliobolus leaf spot",
+    "scientific_name": "Bipolaris sorokiniana"
+  },
+  {
+    "id": 20713,
+    "name": "Cochliobolus leaf spot / black kernel",
+    "scientific_name": "Cochliobolus lunatus"
+  },
+  {
+    "id": 4946,
+    "name": "coffee leaf rust",
+    "scientific_name": "Hemileia vastatrix"
+  },
+  {
+    "id": 17597,
+    "name": "common corn rust",
+    "scientific_name": "Puccinia sorghi"
+  },
+  {
+    "id": 690,
+    "name": "common snow mold",
+    "scientific_name": "Phacidium infestans"
+  },
+  {
+    "id": 65512,
+    "name": "Coniothyrium fungi",
+    "scientific_name": "Coniothyrium hellebori"
+  },
+  {
+    "id": 65488,
+    "name": "Coniothyrium fungi",
+    "scientific_name": "Coniothyrium spp."
+  },
+  {
+    "id": 20305,
+    "name": "Coniothyrium fungus",
+    "scientific_name": "Coniothyrium concentricum"
+  },
+  {
+    "id": 59380,
+    "name": "Corynespora blights and leaf spots",
+    "scientific_name": "Corynespora spp."
+  },
+  {
+    "id": 19292,
+    "name": "Corynespora leaf spot",
+    "scientific_name": "Corynespora cassiicola"
+  },
+  {
+    "id": 69854,
+    "name": "Cristulariella leaf spot",
+    "scientific_name": "Cristulariella depraedans"
+  },
+  {
+    "id": 18192,
+    "name": "crown rust",
+    "scientific_name": "Puccinia coronata"
+  },
+  {
+    "id": 77798,
+    "name": "Cryptocline needle blight",
+    "scientific_name": "Cryptocline taxicola"
+  },
+  {
+    "id": 9508,
+    "name": "cucurbit downy mildew",
+    "scientific_name": "Pseudoperonospora cubensis"
+  },
+  {
+    "id": 14578,
+    "name": "cucurbit yellow stunting disorder virus (CYSDV)",
+    "scientific_name": "Crinivirus CYSDV"
+  },
+  {
+    "id": 18666,
+    "name": "Curvularia fungus",
+    "scientific_name": "Curvularia trifolii"
+  },
+  {
+    "id": 78737,
+    "name": "Curvularia fungus",
+    "scientific_name": "Curvularia spp."
+  },
+  {
+    "id": 4037,
+    "name": "Cyclaneusma needle cast",
+    "scientific_name": "Cyclaneusma minus"
+  },
+  {
+    "id": 17756,
+    "name": "Cylindrocladium black rot",
+    "scientific_name": "Cylindrocladium parasiticum"
+  },
+  {
+    "id": 17811,
+    "name": "dead spot",
+    "scientific_name": "Ophiosphaerella agrostidis"
+  },
+  {
+    "id": 19298,
+    "name": "Didymellina fungus",
+    "scientific_name": "Didymellina poecilospora"
+  },
+  {
+    "id": 706,
+    "name": "Diplodia blight",
+    "scientific_name": "Sphaeropsis sapinea"
+  },
+  {
+    "id": 670,
+    "name": "dogwood anthracnose",
+    "scientific_name": "Discula destructiva"
+  },
+  {
+    "id": 688,
+    "name": "Dothistroma needle blight",
+    "scientific_name": "Mycosphaerella pini"
+  },
+  {
+    "id": 964,
+    "name": "Douglas-fir needlecast",
+    "scientific_name": "Rhabdocline pseudotsugae"
+  },
+  {
+    "id": 9513,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora parasitica"
+  },
+  {
+    "id": 9492,
+    "name": "downy mildew",
+    "scientific_name": "Plasmopara viticola"
+  },
+  {
+    "id": 9440,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora manshurica"
+  },
+  {
+    "id": 14936,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora farinosa f.sp. betae"
+  },
+  {
+    "id": 11133,
+    "name": "downy mildew",
+    "scientific_name": "Plasmopara halstedii"
+  },
+  {
+    "id": 20324,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora farinosa"
+  },
+  {
+    "id": 19394,
+    "name": "downy mildew",
+    "scientific_name": "Peronosclerospora sorghi"
+  },
+  {
+    "id": 19395,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora antirrhini"
+  },
+  {
+    "id": 19396,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora destructor"
+  },
+  {
+    "id": 20825,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora spp."
+  },
+  {
+    "id": 20670,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora grisea"
+  },
+  {
+    "id": 18946,
+    "name": "downy mildew",
+    "scientific_name": "Bremia lactucae"
+  },
+  {
+    "id": 18902,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora trifoliorum"
+  },
+  {
+    "id": 59424,
+    "name": "downy mildew",
+    "scientific_name": "Hyaloperonospora parasitica"
+  },
+  {
+    "id": 56231,
+    "name": "downy mildew",
+    "scientific_name": "Hyaloperonospora brassicae"
+  },
+  {
+    "id": 17812,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora hariotii"
+  },
+  {
+    "id": 17813,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora lamii"
+  },
+  {
+    "id": 17814,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora phlogina"
+  },
+  {
+    "id": 17839,
+    "name": "downy mildew",
+    "scientific_name": "Plasmopara obducens"
+  },
+  {
+    "id": 17840,
+    "name": "downy mildew",
+    "scientific_name": "Plasmopara viburni"
+  },
+  {
+    "id": 17870,
+    "name": "downy mildew",
+    "scientific_name": "Sclerophthora macrospora"
+  },
+  {
+    "id": 18689,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora arthurii"
+  },
+  {
+    "id": 15452,
+    "name": "downy mildew",
+    "scientific_name": "Peronospora sparsa"
+  },
+  {
+    "id": 83443,
+    "name": "downy mildew",
+    "scientific_name": "Hyaloperonospora camelinae"
+  },
+  {
+    "id": 15460,
+    "name": "downy mildew of potentilla",
+    "scientific_name": "Peronospora potentillae"
+  },
+  {
+    "id": 20822,
+    "name": "downy spot",
+    "scientific_name": "Microstroma juglandis"
+  },
+  {
+    "id": 14984,
+    "name": "Drechslera leaf spot",
+    "scientific_name": "Drechslera spp."
+  },
+  {
+    "id": 10494,
+    "name": "dry bean rust",
+    "scientific_name": "Uromyces appendiculatus"
+  },
+  {
+    "id": 11154,
+    "name": "dry rot of ears and stalks of maize",
+    "scientific_name": "Stenocarpella macrospora"
+  },
+  {
+    "id": 9496,
+    "name": "early blight",
+    "scientific_name": "Alternaria solani"
+  },
+  {
+    "id": 672,
+    "name": "Elytroderma needle cast of pine",
+    "scientific_name": "Elytroderma deformans"
+  },
+  {
+    "id": 14918,
+    "name": "Embellisia skin blotch and bulb canker of garlic",
+    "scientific_name": "Embellisia allii"
+  },
+  {
+    "id": 17773,
+    "name": "Entomosporium leaf spot",
+    "scientific_name": "Diplocarpon mespili"
+  },
+  {
+    "id": 9388,
+    "name": "eye spot",
+    "scientific_name": "Kabatiella zeae"
+  },
+  {
+    "id": 14948,
+    "name": "fairy-ring leaf spot",
+    "scientific_name": "Mycosphaerella dianthi"
+  },
+  {
+    "id": 19274,
+    "name": "fig rust",
+    "scientific_name": "Cerotelium fici"
+  },
+  {
+    "id": 11416,
+    "name": "fir needle cast",
+    "scientific_name": "Isthmiella quadrispora"
+  },
+  {
+    "id": 11417,
+    "name": "fir needle cast",
+    "scientific_name": "Isthmiella abietis"
+  },
+  {
+    "id": 11418,
+    "name": "fir needle cast",
+    "scientific_name": "Lirula abietis-concoloris"
+  },
+  {
+    "id": 660,
+    "name": "fir needle casts",
+    "scientific_name": "Lirula spp."
+  },
+  {
+    "id": 697,
+    "name": "fir needle rusts",
+    "scientific_name": "Pucciniastrum spp."
+  },
+  {
+    "id": 13492,
+    "name": "fir-fireweed rust",
+    "scientific_name": "Pucciniastrum epilobii"
+  },
+  {
+    "id": 20551,
+    "name": "Floury leaf spot",
+    "scientific_name": "Mycovellosiella phaseoli"
+  },
+  {
+    "id": 18108,
+    "name": "foot rot",
+    "scientific_name": "Pseudocercosporella herpotrichoides"
+  },
+  {
+    "id": 6996,
+    "name": "frog-eye leafspot",
+    "scientific_name": "Cercospora nicotianae"
+  },
+  {
+    "id": 9439,
+    "name": "frogeye leaf spot",
+    "scientific_name": "Cercospora sojina"
+  },
+  {
+    "id": 19020,
+    "name": "fungus",
+    "scientific_name": "Pleospora herbarum"
+  },
+  {
+    "id": 78229,
+    "name": "fungus",
+    "scientific_name": "Dendryphiella vinosa"
+  },
+  {
+    "id": 4776,
+    "name": "gladiolus rust",
+    "scientific_name": "Uromyces transversalis"
+  },
+  {
+    "id": 4928,
+    "name": "glume blotch",
+    "scientific_name": "Melanomma glumarum"
+  },
+  {
+    "id": 9489,
+    "name": "grape anthracnose",
+    "scientific_name": "Elsinoe ampelina"
+  },
+  {
+    "id": 20559,
+    "name": "Grapevine Fanleaf Virus",
+    "scientific_name": "Nepovirus GFLV"
+  },
+  {
+    "id": 11290,
+    "name": "grapevine flavescence dor\u00e9e phytoplasma",
+    "scientific_name": "Phytoplasma"
+  },
+  {
+    "id": 10650,
+    "name": "Grapevine Vein Yellows and Leaf Roll",
+    "scientific_name": ""
+  },
+  {
+    "id": 14927,
+    "name": "Graphiola leaf spot",
+    "scientific_name": "Graphiola spp."
+  },
+  {
+    "id": 14973,
+    "name": "Graphiola leaf spot",
+    "scientific_name": "Graphiola phoenicis"
+  },
+  {
+    "id": 17739,
+    "name": "Gray leaf spot",
+    "scientific_name": "Cercospora zeae-maydis"
+  },
+  {
+    "id": 18876,
+    "name": "gray leaf spot",
+    "scientific_name": "Magnaporthe grisea"
+  },
+  {
+    "id": 9495,
+    "name": "gray leaf spot",
+    "scientific_name": "Stemphylium solani"
+  },
+  {
+    "id": 9521,
+    "name": "green alga leaf spot",
+    "scientific_name": "Cephaleuros virescens"
+  },
+  {
+    "id": 63786,
+    "name": "green algae",
+    "scientific_name": "Cephaleuros spp."
+  },
+  {
+    "id": 17422,
+    "name": "guava rust",
+    "scientific_name": "Puccinia psidii"
+  },
+  {
+    "id": 14954,
+    "name": "Guignardia blotch",
+    "scientific_name": "Guignardia spp."
+  },
+  {
+    "id": 13464,
+    "name": "Guignardia blotch of buckeyes and horsechestnuts",
+    "scientific_name": "Guignardia aesculi"
+  },
+  {
+    "id": 78121,
+    "name": "gummy stem blight",
+    "scientific_name": "Didymella spp."
+  },
+  {
+    "id": 9663,
+    "name": "Gynosporanium rusts",
+    "scientific_name": "Gymnosporangium spp."
+  },
+  {
+    "id": 678,
+    "name": "hardwood anthracnose",
+    "scientific_name": "Kabatiella apocrypta"
+  },
+  {
+    "id": 9455,
+    "name": "Helminthosporium leaf blotch",
+    "scientific_name": "Drechslera avenacea"
+  },
+  {
+    "id": 9467,
+    "name": "Helminthosporium leaf spot",
+    "scientific_name": "Helminthosporium spp."
+  },
+  {
+    "id": 15417,
+    "name": "Hemiphacidium fungus",
+    "scientific_name": "Hemiphacidium planum"
+  },
+  {
+    "id": 11106,
+    "name": "hemlock rust",
+    "scientific_name": "Melampsora farlowii"
+  },
+  {
+    "id": 13481,
+    "name": "Herpotrichia fungi",
+    "scientific_name": "Herpotrichia spp."
+  },
+  {
+    "id": 19282,
+    "name": "Heterosporium leaf spot on iris",
+    "scientific_name": "Cladosporium iridis"
+  },
+  {
+    "id": 78747,
+    "name": "hypericum rust",
+    "scientific_name": "Melampsora hypericorum"
+  },
+  {
+    "id": 11296,
+    "name": "impatiens necrotic spot virus (INSV)",
+    "scientific_name": "Tospovirus INSV"
+  },
+  {
+    "id": 664,
+    "name": "ink spot leaf blight",
+    "scientific_name": "Ciborinia whetzelii"
+  },
+  {
+    "id": 4977,
+    "name": "Japanese pear rust",
+    "scientific_name": "Gymnosporangium asiaticum"
+  },
+  {
+    "id": 11163,
+    "name": "Japanese pear scab",
+    "scientific_name": "Venturia nashicola"
+  },
+  {
+    "id": 654,
+    "name": "juniper blight",
+    "scientific_name": "Cercospora sequoiae var. juniperi"
+  },
+  {
+    "id": 15437,
+    "name": "juniper broom rust",
+    "scientific_name": "Gymnosporangium speciosum"
+  },
+  {
+    "id": 13484,
+    "name": "juniper-pear rust",
+    "scientific_name": "Gymnosporangium sabinae"
+  },
+  {
+    "id": 18947,
+    "name": "Kabatina blight",
+    "scientific_name": "Kabatina juniperi"
+  },
+  {
+    "id": 677,
+    "name": "larch needle cast",
+    "scientific_name": "Hypodermella laricis"
+  },
+  {
+    "id": 663,
+    "name": "large-spored spruce-laborador tea/needle rust",
+    "scientific_name": "Chrysomyxa ledicola"
+  },
+  {
+    "id": 10796,
+    "name": "late blight",
+    "scientific_name": "Phytophthora infestans"
+  },
+  {
+    "id": 17600,
+    "name": "late leaf spot",
+    "scientific_name": "Passalora personata"
+  },
+  {
+    "id": 17778,
+    "name": "leaf and flower gall",
+    "scientific_name": "Exobasidium azaleae"
+  },
+  {
+    "id": 9527,
+    "name": "leaf and flower gall",
+    "scientific_name": "Exobasidium vaccinii"
+  },
+  {
+    "id": 18958,
+    "name": "leaf blight",
+    "scientific_name": "Drechslera erythrospila"
+  },
+  {
+    "id": 18960,
+    "name": "leaf blight",
+    "scientific_name": "Drechslera gigantea"
+  },
+  {
+    "id": 9493,
+    "name": "leaf blight (Isariopsis leaf spot)",
+    "scientific_name": "Mycosphaerella personata"
+  },
+  {
+    "id": 14920,
+    "name": "leaf blight of fennel",
+    "scientific_name": "Cercosporidium punctum"
+  },
+  {
+    "id": 56879,
+    "name": "leaf blister",
+    "scientific_name": "Taphrina spp."
+  },
+  {
+    "id": 14825,
+    "name": "leaf blister of birch",
+    "scientific_name": "Taphrina betulina"
+  },
+  {
+    "id": 20242,
+    "name": "leaf blister of elm",
+    "scientific_name": "Taphrina ulmi"
+  },
+  {
+    "id": 14899,
+    "name": "leaf blister of maple",
+    "scientific_name": "Taphrina sacchari"
+  },
+  {
+    "id": 977,
+    "name": "leaf blister of poplar",
+    "scientific_name": "Taphrina populina"
+  },
+  {
+    "id": 19279,
+    "name": "Leaf blotch",
+    "scientific_name": "Cladosporium allii-cepae"
+  },
+  {
+    "id": 65478,
+    "name": "leaf blotch",
+    "scientific_name": "Stagonospora spp."
+  },
+  {
+    "id": 60300,
+    "name": "leaf blotch",
+    "scientific_name": "Peyronellaea curtisii"
+  },
+  {
+    "id": 17879,
+    "name": "leaf blotch",
+    "scientific_name": "Stagonospora nodorum"
+  },
+  {
+    "id": 18892,
+    "name": "leaf curl",
+    "scientific_name": "Taphrina communis"
+  },
+  {
+    "id": 18863,
+    "name": "leaf mold",
+    "scientific_name": "Articularia quercina"
+  },
+  {
+    "id": 17747,
+    "name": "leaf mold",
+    "scientific_name": "Passalora fulva"
+  },
+  {
+    "id": 17764,
+    "name": "leaf scorch",
+    "scientific_name": "Diplocarpon earlianum"
+  },
+  {
+    "id": 2422,
+    "name": "leaf scorches",
+    "scientific_name": ""
+  },
+  {
+    "id": 668,
+    "name": "leaf shotholes",
+    "scientific_name": "Cylindrosporium spp."
+  },
+  {
+    "id": 14917,
+    "name": "leaf spot",
+    "scientific_name": "Stemphylium spp."
+  },
+  {
+    "id": 14953,
+    "name": "leaf spot",
+    "scientific_name": "Sonderhenia eucalypticola"
+  },
+  {
+    "id": 13479,
+    "name": "leaf spot",
+    "scientific_name": "Mycosphaerella maculiformis"
+  },
+  {
+    "id": 17706,
+    "name": "leaf spot",
+    "scientific_name": "Passalora sequoiae"
+  },
+  {
+    "id": 14976,
+    "name": "leaf spot",
+    "scientific_name": "Cercostigmina protearum var. protearum"
+  },
+  {
+    "id": 14979,
+    "name": "leaf spot",
+    "scientific_name": "Ramularia didyma"
+  },
+  {
+    "id": 59418,
+    "name": "leaf spot",
+    "scientific_name": "Stemphylium sarciniforme"
+  },
+  {
+    "id": 55978,
+    "name": "leaf spot",
+    "scientific_name": "Mycosphaerella alocasiae"
+  },
+  {
+    "id": 56057,
+    "name": "leaf spot",
+    "scientific_name": "Marssonia spp."
+  },
+  {
+    "id": 20697,
+    "name": "leaf spot",
+    "scientific_name": "Ceratobasidium stevensii"
+  },
+  {
+    "id": 14963,
+    "name": "leaf spot disease of Bells-of-Ireland",
+    "scientific_name": "Cercospora moluccella"
+  },
+  {
+    "id": 11052,
+    "name": "leaf spot of maize",
+    "scientific_name": "Bipolaris zeicola"
+  },
+  {
+    "id": 9526,
+    "name": "leaf spot or scorch",
+    "scientific_name": "Septoria azalea"
+  },
+  {
+    "id": 58269,
+    "name": "leaf spots",
+    "scientific_name": "Cristulariella spp."
+  },
+  {
+    "id": 11186,
+    "name": "leaf streak/black chaff",
+    "scientific_name": "Xanthomonas translucens pv. translucens"
+  },
+  {
+    "id": 14306,
+    "name": "lemongrass rust",
+    "scientific_name": "Puccinia cymbopogonis"
+  },
+  {
+    "id": 14311,
+    "name": "lemongrass rust",
+    "scientific_name": "Puccinia nakanishikii"
+  },
+  {
+    "id": 14951,
+    "name": "Leptosphaeria leaf blight",
+    "scientific_name": "Leptosphaeria dracaenae"
+  },
+  {
+    "id": 14944,
+    "name": "Leptosphaeria leaf blight",
+    "scientific_name": "Leptosphaeria spp."
+  },
+  {
+    "id": 17795,
+    "name": "Leptosphaerulina leaf blight",
+    "scientific_name": "Leptosphaerulina australis"
+  },
+  {
+    "id": 17796,
+    "name": "Leptosphaerulina leaf blight",
+    "scientific_name": "Leptosphaerulina trifolii"
+  },
+  {
+    "id": 17797,
+    "name": "Leptosphaerulina leaf blight",
+    "scientific_name": "Leptosphaerulina crassiasca"
+  },
+  {
+    "id": 56215,
+    "name": "Leptosphaerulina leaf blights",
+    "scientific_name": "Leptosphaerulina spp."
+  },
+  {
+    "id": 14992,
+    "name": "Lewia fungi",
+    "scientific_name": "Lewia spp."
+  },
+  {
+    "id": 11213,
+    "name": "lime witches\u2019 broom phytoplasma",
+    "scientific_name": "Candidatus Phytoplasma aurantifolia WBDL"
+  },
+  {
+    "id": 11205,
+    "name": "little cherry virus 2 (LCV-2)",
+    "scientific_name": "Ampelovirus LCV-2"
+  },
+  {
+    "id": 898,
+    "name": "lodgepole pine needlecast",
+    "scientific_name": "Lophodermella concolor"
+  },
+  {
+    "id": 684,
+    "name": "Lophodermium needle casts",
+    "scientific_name": "Lophodermium spp."
+  },
+  {
+    "id": 579,
+    "name": "maple cankers",
+    "scientific_name": "Stegonsporium spp."
+  },
+  {
+    "id": 685,
+    "name": "Marssonina blight of poplar",
+    "scientific_name": "Marssonina populi"
+  },
+  {
+    "id": 901,
+    "name": "Marssonina leaf spot",
+    "scientific_name": "Marssonina tremulae"
+  },
+  {
+    "id": 12477,
+    "name": "Marssonina leaf spot",
+    "scientific_name": "Marssonina betulae"
+  },
+  {
+    "id": 13483,
+    "name": "Marssonina leaf spot",
+    "scientific_name": "Marssonina juglandis"
+  },
+  {
+    "id": 13475,
+    "name": "Marssonina leaf spot",
+    "scientific_name": "Marssonina tiliae"
+  },
+  {
+    "id": 13476,
+    "name": "Marssonina leaf spot",
+    "scientific_name": "Marssonina salicicola"
+  },
+  {
+    "id": 20248,
+    "name": "Marssonina leaf spots",
+    "scientific_name": "Marssonina spp."
+  },
+  {
+    "id": 14815,
+    "name": "Medusa needle blight",
+    "scientific_name": "Davisomycella medusa"
+  },
+  {
+    "id": 13451,
+    "name": "Melampsora leaf rust",
+    "scientific_name": "Melampsora laricis-populina"
+  },
+  {
+    "id": 18196,
+    "name": "Melampsora leaf rust",
+    "scientific_name": "Melampsora populnea f.sp. laricis"
+  },
+  {
+    "id": 2363,
+    "name": "Melampsora rusts",
+    "scientific_name": "Melampsora spp."
+  },
+  {
+    "id": 12158,
+    "name": "melanose",
+    "scientific_name": "Diaporthe citri"
+  },
+  {
+    "id": 14961,
+    "name": "mint rust",
+    "scientific_name": "Puccinia menthae"
+  },
+  {
+    "id": 58980,
+    "name": "mosaic viruses (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 14826,
+    "name": "mountain ash juniper rust",
+    "scientific_name": "Gymnosporangium cornutum"
+  },
+  {
+    "id": 9535,
+    "name": "mycelial neck rot",
+    "scientific_name": "Botrytis tulipae"
+  },
+  {
+    "id": 18195,
+    "name": "Mycosphaerella leaf spot",
+    "scientific_name": "Mycosphaerella microsora"
+  },
+  {
+    "id": 17805,
+    "name": "Mycosphaerella leaf spot",
+    "scientific_name": "Mycosphaerella arachidis"
+  },
+  {
+    "id": 17806,
+    "name": "Mycosphaerella leaf spot",
+    "scientific_name": "Mycosphaerella citri"
+  },
+  {
+    "id": 17721,
+    "name": "Mycosphaerella leaf spot",
+    "scientific_name": "Mycosphaerella cerasella"
+  },
+  {
+    "id": 10933,
+    "name": "needle blight",
+    "scientific_name": "Cercospora pini-densiflorae"
+  },
+  {
+    "id": 669,
+    "name": "needle blight of cedar",
+    "scientific_name": "Didymascella thujina"
+  },
+  {
+    "id": 16503,
+    "name": "needle blight of hemlock",
+    "scientific_name": "Fabrella tsugae"
+  },
+  {
+    "id": 687,
+    "name": "needle blight of larch",
+    "scientific_name": "Meria laricis"
+  },
+  {
+    "id": 14816,
+    "name": "needle cast",
+    "scientific_name": "Virgella robusta"
+  },
+  {
+    "id": 13500,
+    "name": "needle cast",
+    "scientific_name": "Lophodermium seditiosum"
+  },
+  {
+    "id": 15093,
+    "name": "needle cast",
+    "scientific_name": "Lophodermium juniperinum"
+  },
+  {
+    "id": 15404,
+    "name": "needle cast",
+    "scientific_name": "Bifusella saccata"
+  },
+  {
+    "id": 15406,
+    "name": "needle cast",
+    "scientific_name": "Bifusella linearis"
+  },
+  {
+    "id": 11114,
+    "name": "needle cast of Japanese larch",
+    "scientific_name": "Mycosphaerella laricis-leptolepidis"
+  },
+  {
+    "id": 12464,
+    "name": "needle rust",
+    "scientific_name": "Coleosporium tussilaginis"
+  },
+  {
+    "id": 13472,
+    "name": "needle rust",
+    "scientific_name": "Coleosporium senecionis"
+  },
+  {
+    "id": 14806,
+    "name": "needle rust",
+    "scientific_name": "Pucciniastrum goeppertianum"
+  },
+  {
+    "id": 14818,
+    "name": "needlecast",
+    "scientific_name": "Davisomycella montana"
+  },
+  {
+    "id": 14819,
+    "name": "needlecast",
+    "scientific_name": "Bifusella pini"
+  },
+  {
+    "id": 14821,
+    "name": "needlecast",
+    "scientific_name": "Gloeocoryneum cinereum"
+  },
+  {
+    "id": 14873,
+    "name": "needlecast",
+    "scientific_name": "Meloderma desmazieri"
+  },
+  {
+    "id": 4810,
+    "name": "needlecast",
+    "scientific_name": "Stigmina deflectens"
+  },
+  {
+    "id": 19367,
+    "name": "needlecast",
+    "scientific_name": "Lophodermella montivaga"
+  },
+  {
+    "id": 56058,
+    "name": "needlecast",
+    "scientific_name": "Davisomycella attenuata"
+  },
+  {
+    "id": 79399,
+    "name": "needlecast",
+    "scientific_name": "Lophodermella spp."
+  },
+  {
+    "id": 63215,
+    "name": "needlecasts",
+    "scientific_name": "Davisomycella spp."
+  },
+  {
+    "id": 16546,
+    "name": "northern corn leaf blight",
+    "scientific_name": "Exserohilum turcicum"
+  },
+  {
+    "id": 707,
+    "name": "oak leaf blister",
+    "scientific_name": "Taphrina caerulescens"
+  },
+  {
+    "id": 17392,
+    "name": "oat crown rust",
+    "scientific_name": "Puccinia coronata var. avenae"
+  },
+  {
+    "id": 17394,
+    "name": "oat stem rust",
+    "scientific_name": "Puccinia graminis f.sp. avenae"
+  },
+  {
+    "id": 14916,
+    "name": "onion rust",
+    "scientific_name": "Puccinia allii"
+  },
+  {
+    "id": 18882,
+    "name": "onion smudge",
+    "scientific_name": "Colletotrichum circinans"
+  },
+  {
+    "id": 10644,
+    "name": "orange rust",
+    "scientific_name": "Arthuriomyces peckianus"
+  },
+  {
+    "id": 19387,
+    "name": "Ovulinia fungus",
+    "scientific_name": "Ovulinia azaleae"
+  },
+  {
+    "id": 11115,
+    "name": "pasmo disease of linseed",
+    "scientific_name": "Mycosphaerella linicola"
+  },
+  {
+    "id": 11216,
+    "name": "peach latent mosaic viroid (PLMVd)",
+    "scientific_name": "Pelamoviroid PLMVd"
+  },
+  {
+    "id": 17891,
+    "name": "peach leaf curl",
+    "scientific_name": "Taphrina deformans"
+  },
+  {
+    "id": 11217,
+    "name": "peach rosette mosaic virus (PRMV)",
+    "scientific_name": "Nepovirus PRMV"
+  },
+  {
+    "id": 17902,
+    "name": "peach scab",
+    "scientific_name": "Venturia carpophila"
+  },
+  {
+    "id": 11219,
+    "name": "Peach X-disease",
+    "scientific_name": "Phytoplasma"
+  },
+  {
+    "id": 15311,
+    "name": "Peanut Stunt Virus",
+    "scientific_name": "Cucumovirus PSV"
+  },
+  {
+    "id": 11221,
+    "name": "pear decline phytoplasma",
+    "scientific_name": "Candidatus Phytoplasma pyri"
+  },
+  {
+    "id": 21359,
+    "name": "pear scab",
+    "scientific_name": "Venturia pirina"
+  },
+  {
+    "id": 84726,
+    "name": "pecan scab",
+    "scientific_name": "Venturia effusa"
+  },
+  {
+    "id": 80765,
+    "name": "pecan scab",
+    "scientific_name": "Fusicladium effusum"
+  },
+  {
+    "id": 15457,
+    "name": "peony leaf blotch",
+    "scientific_name": "Cladosporium paeoniae"
+  },
+  {
+    "id": 13498,
+    "name": "Pestalotiopsis blight",
+    "scientific_name": "Pestalotiopsis guepinii"
+  },
+  {
+    "id": 14922,
+    "name": "Pestalotiopsis leaf spot",
+    "scientific_name": "Pestalotiopsis palmarum"
+  },
+  {
+    "id": 14952,
+    "name": "Pestalotiopsis leaf spot",
+    "scientific_name": "Pestalotiopsis versicolor"
+  },
+  {
+    "id": 14978,
+    "name": "Pestalotiopsis leaf spot",
+    "scientific_name": "Pestalotiopsis spp."
+  },
+  {
+    "id": 12461,
+    "name": "Phacidium fungus",
+    "scientific_name": "Phacidium coniferarum"
+  },
+  {
+    "id": 65813,
+    "name": "Phaeoramularia fungus",
+    "scientific_name": "Phaeoramularia cucurbiticola"
+  },
+  {
+    "id": 78138,
+    "name": "Phaeoramularia fungus",
+    "scientific_name": "Phaeoramularia spp."
+  },
+  {
+    "id": 11865,
+    "name": "Philippine downy mildew",
+    "scientific_name": "Peronosclerospora philippinensis"
+  },
+  {
+    "id": 17763,
+    "name": "Phloeospora leaf spot",
+    "scientific_name": "Phloeospora aceris"
+  },
+  {
+    "id": 20826,
+    "name": "Phloeospora leaf spot",
+    "scientific_name": "Phloeospora spp."
+  },
+  {
+    "id": 78187,
+    "name": "Phloeospora leaf spot",
+    "scientific_name": "Phloeospora koenigii"
+  },
+  {
+    "id": 12470,
+    "name": "Phloeosporella fungus",
+    "scientific_name": "Phloeosporella padi"
+  },
+  {
+    "id": 18962,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma exigua"
+  },
+  {
+    "id": 18967,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma macdonaldii"
+  },
+  {
+    "id": 65479,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma draconis"
+  },
+  {
+    "id": 65502,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma multirostrata"
+  },
+  {
+    "id": 65550,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma anethi"
+  },
+  {
+    "id": 65552,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma herbarum"
+  },
+  {
+    "id": 17705,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma exigua var. exigua"
+  },
+  {
+    "id": 17816,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma clematidina"
+  },
+  {
+    "id": 17818,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma destructiva"
+  },
+  {
+    "id": 78287,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma pomorum"
+  },
+  {
+    "id": 692,
+    "name": "Phoma blights",
+    "scientific_name": "Phoma spp."
+  },
+  {
+    "id": 17827,
+    "name": "Phomopsis cane and leaf spot",
+    "scientific_name": "Phomopsis viticola"
+  },
+  {
+    "id": 17825,
+    "name": "Phomopsis leaf blight and fruit rot",
+    "scientific_name": "Phomopsis obscurans"
+  },
+  {
+    "id": 19149,
+    "name": "Phomopsis leaf blight and fruit rot",
+    "scientific_name": "Phomopsis longicolla"
+  },
+  {
+    "id": 19135,
+    "name": "Phyllosticta leaf spot",
+    "scientific_name": "Phyllosticta acericola"
+  },
+  {
+    "id": 77008,
+    "name": "Phyllosticta leaf spot",
+    "scientific_name": "Phyllosticta citricarpa"
+  },
+  {
+    "id": 59795,
+    "name": "Phyllosticta leaf spot",
+    "scientific_name": "Phyllosticta paulowiae"
+  },
+  {
+    "id": 17831,
+    "name": "Phyllosticta leaf spot",
+    "scientific_name": "Phyllosticta cotoneastri"
+  },
+  {
+    "id": 17833,
+    "name": "Phyllosticta leaf spot",
+    "scientific_name": "Phyllosticta hamamelidis"
+  },
+  {
+    "id": 17836,
+    "name": "Phyllosticta leaf spot",
+    "scientific_name": "Phyllosticta vaccinii"
+  },
+  {
+    "id": 13135,
+    "name": "Phyllosticta leaf spot",
+    "scientific_name": "Phyllosticta minima"
+  },
+  {
+    "id": 693,
+    "name": "Phyllosticta leaf spots",
+    "scientific_name": "Phyllosticta spp."
+  },
+  {
+    "id": 78086,
+    "name": "Phyllosticta leaf spots",
+    "scientific_name": "Phyllosticta annonae"
+  },
+  {
+    "id": 78188,
+    "name": "Phyllosticta leaf spots",
+    "scientific_name": "Phyllosticta murrayicola"
+  },
+  {
+    "id": 694,
+    "name": "Phytophthora basal canker",
+    "scientific_name": "Phytophthora palmivora"
+  },
+  {
+    "id": 899,
+    "name": "pine needle cast",
+    "scientific_name": "Lophodermium pinastri"
+  },
+  {
+    "id": 11423,
+    "name": "pine needle cast",
+    "scientific_name": "Lophodermium nitens"
+  },
+  {
+    "id": 13423,
+    "name": "pine needle rust",
+    "scientific_name": "Coleosporium asterum"
+  },
+  {
+    "id": 665,
+    "name": "pine needle rusts",
+    "scientific_name": "Coleosporium spp."
+  },
+  {
+    "id": 656,
+    "name": "pine needlecast",
+    "scientific_name": "Lophodermella cerina"
+  },
+  {
+    "id": 18110,
+    "name": "pink snow mold",
+    "scientific_name": "Microdochium nivale"
+  },
+  {
+    "id": 59917,
+    "name": "Piptarthron fungus",
+    "scientific_name": "Piptarthron limbatum"
+  },
+  {
+    "id": 19130,
+    "name": "Plectosporium blight",
+    "scientific_name": "Plectosporium tabacinum"
+  },
+  {
+    "id": 13493,
+    "name": "Pleuroceras fungus",
+    "scientific_name": "Pleuroceras pseudoplatani"
+  },
+  {
+    "id": 695,
+    "name": "Ploioderma needle cast of pine",
+    "scientific_name": "Ploioderma lethale"
+  },
+  {
+    "id": 686,
+    "name": "poplar rust",
+    "scientific_name": "Melampsora medusae"
+  },
+  {
+    "id": 12151,
+    "name": "potato deforming rust",
+    "scientific_name": "Aecidium cantensis"
+  },
+  {
+    "id": 10737,
+    "name": "potato mop top virus (PMTV)",
+    "scientific_name": "Carlavirus PMTV"
+  },
+  {
+    "id": 11229,
+    "name": "potato stolbur phytoplasma",
+    "scientific_name": "Candidatus Phytoplasma  solani"
+  },
+  {
+    "id": 11231,
+    "name": "potato yellow dwarf virus (PYDV)",
+    "scientific_name": "Nucleorhabdovirus PYDV"
+  },
+  {
+    "id": 12129,
+    "name": "powdery mildew",
+    "scientific_name": "Microsphaera abbreviata"
+  },
+  {
+    "id": 14281,
+    "name": "powdery mildew",
+    "scientific_name": "Leveillula taurica"
+  },
+  {
+    "id": 14283,
+    "name": "powdery mildew",
+    "scientific_name": "Microsphaera berberidis"
+  },
+  {
+    "id": 14958,
+    "name": "powdery mildew",
+    "scientific_name": "Golovinomyces orontii"
+  },
+  {
+    "id": 14946,
+    "name": "powdery mildew",
+    "scientific_name": "Sphaerotheca delphinii"
+  },
+  {
+    "id": 2602,
+    "name": "powdery mildew",
+    "scientific_name": "Microsphaera penicillata"
+  },
+  {
+    "id": 10496,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera pannosa"
+  },
+  {
+    "id": 9532,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera spp."
+  },
+  {
+    "id": 9480,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera leucotricha"
+  },
+  {
+    "id": 9506,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera fuliginea"
+  },
+  {
+    "id": 19122,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera xanthii"
+  },
+  {
+    "id": 19123,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera aphanis"
+  },
+  {
+    "id": 19139,
+    "name": "powdery mildew",
+    "scientific_name": "Phyllactinia spp."
+  },
+  {
+    "id": 19074,
+    "name": "powdery mildew",
+    "scientific_name": "Sphaerotheca phytoptophila"
+  },
+  {
+    "id": 18951,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe pisi"
+  },
+  {
+    "id": 20718,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe lonicerae"
+  },
+  {
+    "id": 20566,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe syringae"
+  },
+  {
+    "id": 20298,
+    "name": "powdery mildew",
+    "scientific_name": "Golovinomyces cichoracearum"
+  },
+  {
+    "id": 20431,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe poeltii"
+  },
+  {
+    "id": 77949,
+    "name": "powdery mildew",
+    "scientific_name": "Golovinomyces spp."
+  },
+  {
+    "id": 77092,
+    "name": "powdery mildew",
+    "scientific_name": "Sawadaea polyfida"
+  },
+  {
+    "id": 22189,
+    "name": "powdery mildew",
+    "scientific_name": "Sawadaea tulasnei"
+  },
+  {
+    "id": 22196,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe flexuosa"
+  },
+  {
+    "id": 22205,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe palczewskii"
+  },
+  {
+    "id": 22207,
+    "name": "powdery mildew",
+    "scientific_name": "Phyllactinia fraxini"
+  },
+  {
+    "id": 56229,
+    "name": "powdery mildew",
+    "scientific_name": "Phyllactinia moricola"
+  },
+  {
+    "id": 56230,
+    "name": "powdery mildew",
+    "scientific_name": "Oidium ipomoeae"
+  },
+  {
+    "id": 56312,
+    "name": "powdery mildew",
+    "scientific_name": "Oidium mangiferae"
+  },
+  {
+    "id": 56313,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe cruciferarum"
+  },
+  {
+    "id": 56238,
+    "name": "powdery mildew",
+    "scientific_name": "Oidium murrayae"
+  },
+  {
+    "id": 56696,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe pulchra"
+  },
+  {
+    "id": 18111,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe graminis f.sp. tritici"
+  },
+  {
+    "id": 17884,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera macularis"
+  },
+  {
+    "id": 18690,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe necator"
+  },
+  {
+    "id": 17810,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe euonymi-japonici"
+  },
+  {
+    "id": 17801,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe diffusa"
+  },
+  {
+    "id": 17802,
+    "name": "powdery mildew",
+    "scientific_name": "Microsphaera euonymi-japonici"
+  },
+  {
+    "id": 17775,
+    "name": "powdery mildew",
+    "scientific_name": "Blumeria graminis"
+  },
+  {
+    "id": 17776,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe lagerstroemiae"
+  },
+  {
+    "id": 17777,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe betae"
+  },
+  {
+    "id": 17274,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe cichoracearum"
+  },
+  {
+    "id": 14968,
+    "name": "powdery mildew",
+    "scientific_name": "Oidium spp."
+  },
+  {
+    "id": 14970,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe spp."
+  },
+  {
+    "id": 14971,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe magnicellulata"
+  },
+  {
+    "id": 15091,
+    "name": "powdery mildew",
+    "scientific_name": "Phyllactinia guttata"
+  },
+  {
+    "id": 79704,
+    "name": "powdery mildew",
+    "scientific_name": "Erysiphe platani"
+  },
+  {
+    "id": 12465,
+    "name": "powdery mildew of oak",
+    "scientific_name": "Microsphaera alphitoides"
+  },
+  {
+    "id": 18668,
+    "name": "powdery mildews",
+    "scientific_name": "Sphaerotheca spp."
+  },
+  {
+    "id": 657,
+    "name": "powdery mildews (Family Erysiphaceae)",
+    "scientific_name": ""
+  },
+  {
+    "id": 21243,
+    "name": "Pseudocercospora fungus",
+    "scientific_name": "Pseudocercospora pancratii"
+  },
+  {
+    "id": 17846,
+    "name": "Pseudocercospora leaf spot",
+    "scientific_name": "Pseudocercospora vitis"
+  },
+  {
+    "id": 17729,
+    "name": "Pseudocercospora leaf spot",
+    "scientific_name": "Pseudocercospora kalmiae"
+  },
+  {
+    "id": 78189,
+    "name": "Pseudocercospora leaf spot",
+    "scientific_name": "Pseudocercospora murrayae"
+  },
+  {
+    "id": 78220,
+    "name": "Pseudocercospora leaf spot",
+    "scientific_name": "Pseudocercospora musicola"
+  },
+  {
+    "id": 78221,
+    "name": "Pseudocercospora leaf spot",
+    "scientific_name": "Pseudocercospora spp."
+  },
+  {
+    "id": 78134,
+    "name": "puccinia rust",
+    "scientific_name": "Puccinia heterogenea"
+  },
+  {
+    "id": 3397,
+    "name": "puccinia rust",
+    "scientific_name": "Puccinia carduorum"
+  },
+  {
+    "id": 3114,
+    "name": "puccinia rusts",
+    "scientific_name": "Puccinia spp."
+  },
+  {
+    "id": 78088,
+    "name": "puccinia rusts",
+    "scientific_name": "Puccinia bambusarum"
+  },
+  {
+    "id": 78745,
+    "name": "puccinia rusts",
+    "scientific_name": "Puccinia urbaniana"
+  },
+  {
+    "id": 16559,
+    "name": "purple blotch",
+    "scientific_name": "Alternaria porri"
+  },
+  {
+    "id": 57538,
+    "name": "Pyracantha scab",
+    "scientific_name": "Spilocaea pyracanthae"
+  },
+  {
+    "id": 17770,
+    "name": "Pyrenophora leaf blight",
+    "scientific_name": "Drechslera dictyoides"
+  },
+  {
+    "id": 11283,
+    "name": "raspberry leaf curl virus (RLCV)",
+    "scientific_name": "Luteovirus RLCV"
+  },
+  {
+    "id": 56010,
+    "name": "raspberry leaf spot",
+    "scientific_name": "Sphaerulina rubi"
+  },
+  {
+    "id": 11297,
+    "name": "raspberry ringspot virus (RpRSV)",
+    "scientific_name": "Nepovirus RpRSV"
+  },
+  {
+    "id": 11414,
+    "name": "red belt abiotic damage",
+    "scientific_name": ""
+  },
+  {
+    "id": 14880,
+    "name": "Repetophragma fungus",
+    "scientific_name": "Repetophragma wroblewski"
+  },
+  {
+    "id": 14814,
+    "name": "Rhabdocline needlecast",
+    "scientific_name": "Rhabdocline weirii"
+  },
+  {
+    "id": 698,
+    "name": "Rhabdocline needlecasts",
+    "scientific_name": "Rhabdocline spp."
+  },
+  {
+    "id": 700,
+    "name": "Rhizosphaera needle cast",
+    "scientific_name": "Rhizosphaera kalkhoffii"
+  },
+  {
+    "id": 718,
+    "name": "Rhizosphaera needle cast",
+    "scientific_name": "Rhizosphaera pini"
+  },
+  {
+    "id": 15088,
+    "name": "Rhizosphaera needle cast",
+    "scientific_name": "Rhizosphaera spp."
+  },
+  {
+    "id": 15461,
+    "name": "rose rust",
+    "scientific_name": "Phragmidium mucronatum"
+  },
+  {
+    "id": 14982,
+    "name": "rose rusts",
+    "scientific_name": "Phragmidium spp."
+  },
+  {
+    "id": 17595,
+    "name": "Rostratum leaf spot",
+    "scientific_name": "Exserohilum rostratum"
+  },
+  {
+    "id": 4407,
+    "name": "rush skeletonweed rust",
+    "scientific_name": "Puccinia chondrillina"
+  },
+  {
+    "id": 14957,
+    "name": "rust",
+    "scientific_name": "Puccinia heliconiae"
+  },
+  {
+    "id": 11143,
+    "name": "rust",
+    "scientific_name": "Puccinia pelargonii-zonalis"
+  },
+  {
+    "id": 18664,
+    "name": "rust",
+    "scientific_name": "Uromyces dianthi"
+  },
+  {
+    "id": 18312,
+    "name": "rust",
+    "scientific_name": "Tranzschelia discolor f.sp. persicae"
+  },
+  {
+    "id": 17896,
+    "name": "rust",
+    "scientific_name": "Uromyces ari-triphylli"
+  },
+  {
+    "id": 58979,
+    "name": "rust",
+    "scientific_name": "Uromyces vignae"
+  },
+  {
+    "id": 57517,
+    "name": "rust",
+    "scientific_name": "Phakopsora ampelopsidis"
+  },
+  {
+    "id": 20833,
+    "name": "rust",
+    "scientific_name": "Tranzschelia spp."
+  },
+  {
+    "id": 65811,
+    "name": "rust",
+    "scientific_name": "Uromyces geranii"
+  },
+  {
+    "id": 64022,
+    "name": "rust",
+    "scientific_name": "Uromyces graminicola"
+  },
+  {
+    "id": 20682,
+    "name": "rust",
+    "scientific_name": "Puccinia andropogonis"
+  },
+  {
+    "id": 18915,
+    "name": "rust",
+    "scientific_name": "Puccinia punctiformis"
+  },
+  {
+    "id": 18924,
+    "name": "rust",
+    "scientific_name": "Puccinia asparagi"
+  },
+  {
+    "id": 18925,
+    "name": "rust",
+    "scientific_name": "Puccinia aristidae"
+  },
+  {
+    "id": 18989,
+    "name": "rust",
+    "scientific_name": "Tranzschelia pruni-spinosae"
+  },
+  {
+    "id": 19219,
+    "name": "rust",
+    "scientific_name": "Tranzschelia discolor"
+  },
+  {
+    "id": 19108,
+    "name": "rust",
+    "scientific_name": "Pucciniastrum americanum"
+  },
+  {
+    "id": 78194,
+    "name": "rust",
+    "scientific_name": "Uromyces spp."
+  },
+  {
+    "id": 78246,
+    "name": "rust",
+    "scientific_name": "Uromyces maireanus"
+  },
+  {
+    "id": 14305,
+    "name": "rust on veronica",
+    "scientific_name": "Puccinia veronicae-longifoliae"
+  },
+  {
+    "id": 14931,
+    "name": "rusts",
+    "scientific_name": "Gerwasia spp."
+  },
+  {
+    "id": 2248,
+    "name": "rusts",
+    "scientific_name": ""
+  },
+  {
+    "id": 16815,
+    "name": "safflower rust",
+    "scientific_name": "Puccinia calcitrapae var. centaureae"
+  },
+  {
+    "id": 11046,
+    "name": "Sapstreak disease of maple",
+    "scientific_name": "Ceratocystis virescens"
+  },
+  {
+    "id": 11234,
+    "name": "satsuma dwarf virus (SDV)",
+    "scientific_name": "Sadwavirus SDV"
+  },
+  {
+    "id": 9510,
+    "name": "scab",
+    "scientific_name": "Cladosporium cucumerinum"
+  },
+  {
+    "id": 56240,
+    "name": "scab",
+    "scientific_name": "Venturia pyrina"
+  },
+  {
+    "id": 78193,
+    "name": "scab",
+    "scientific_name": "Elsinoe phaseoli"
+  },
+  {
+    "id": 11116,
+    "name": "Septoria canker of poplar",
+    "scientific_name": "Mycosphaerella populorum"
+  },
+  {
+    "id": 11494,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria cornicola"
+  },
+  {
+    "id": 14921,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria apiicola"
+  },
+  {
+    "id": 9529,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria chrysanthemi"
+  },
+  {
+    "id": 62266,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria pisi"
+  },
+  {
+    "id": 18944,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria lycopersici"
+  },
+  {
+    "id": 20828,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria betulae"
+  },
+  {
+    "id": 20829,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria platanifolia"
+  },
+  {
+    "id": 17881,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria rudbeckiae"
+  },
+  {
+    "id": 17877,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria glycines"
+  },
+  {
+    "id": 78132,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria leucanthemi"
+  },
+  {
+    "id": 80523,
+    "name": "Septoria leaf spot",
+    "scientific_name": "Septoria veronicae"
+  },
+  {
+    "id": 971,
+    "name": "Septoria leaf spot and canker",
+    "scientific_name": "Septoria populicola"
+  },
+  {
+    "id": 704,
+    "name": "Septoria leaf spot and canker",
+    "scientific_name": "Septoria musiva"
+  },
+  {
+    "id": 972,
+    "name": "Septoria leaf spot and cankers",
+    "scientific_name": "Septoria spp."
+  },
+  {
+    "id": 9457,
+    "name": "Septoria leaf spot of wheat",
+    "scientific_name": "Septoria tritici"
+  },
+  {
+    "id": 11153,
+    "name": "Septoria leafspot, annular leafspot",
+    "scientific_name": "Septoria lycopersici malagutii"
+  },
+  {
+    "id": 78738,
+    "name": "Septoriella fungus",
+    "scientific_name": "Septoriella spp."
+  },
+  {
+    "id": 20674,
+    "name": "sharp eyespot",
+    "scientific_name": "Ceratobasidium cereale"
+  },
+  {
+    "id": 720,
+    "name": "shepherd's crook leaf and shoot blight",
+    "scientific_name": "Venturia populina"
+  },
+  {
+    "id": 709,
+    "name": "shepherd's crook leaf and shoot blight",
+    "scientific_name": "Venturia tremulae"
+  },
+  {
+    "id": 705,
+    "name": "Sirococcus blight of conifers",
+    "scientific_name": "Sirococcus conigenus"
+  },
+  {
+    "id": 19054,
+    "name": "snow mold",
+    "scientific_name": "Typhula incarnata"
+  },
+  {
+    "id": 20848,
+    "name": "snow molds",
+    "scientific_name": "Typhula spp."
+  },
+  {
+    "id": 9479,
+    "name": "sooty blotch",
+    "scientific_name": "Gloeodes pomigena"
+  },
+  {
+    "id": 9466,
+    "name": "sorghum rough leaf spot",
+    "scientific_name": "Ascochyta sorghi"
+  },
+  {
+    "id": 11072,
+    "name": "sour orange scab",
+    "scientific_name": "Elsinoe fawcettii"
+  },
+  {
+    "id": 9448,
+    "name": "Southern corn leaf blight and stalk rot",
+    "scientific_name": "Bipolaris maydis"
+  },
+  {
+    "id": 17596,
+    "name": "Southern corn rust",
+    "scientific_name": "Puccinia polysora"
+  },
+  {
+    "id": 9298,
+    "name": "soybean rust",
+    "scientific_name": "Phakopsora pachyrhizi"
+  },
+  {
+    "id": 17883,
+    "name": "Sphaeropsis tip blight",
+    "scientific_name": "Sphaeropsis tumefaciens"
+  },
+  {
+    "id": 18504,
+    "name": "spot anthracnose",
+    "scientific_name": "Elsinoe corni"
+  },
+  {
+    "id": 14269,
+    "name": "spot on broad bean",
+    "scientific_name": "Ascochyta fabae"
+  },
+  {
+    "id": 17821,
+    "name": "Spring black stem",
+    "scientific_name": "Phoma medicaginis"
+  },
+  {
+    "id": 17794,
+    "name": "spring dead spot",
+    "scientific_name": "Ophiosphaerella korrae"
+  },
+  {
+    "id": 715,
+    "name": "spruce needle cast",
+    "scientific_name": "Lophodermium piceae"
+  },
+  {
+    "id": 680,
+    "name": "spruce needle cast/blight",
+    "scientific_name": "Lirula macrospora"
+  },
+  {
+    "id": 713,
+    "name": "spruce needle rust",
+    "scientific_name": "Chrysomyxa weirii"
+  },
+  {
+    "id": 11237,
+    "name": "squash leaf curl virus (SLCV)",
+    "scientific_name": "Bigeminivirus SLCV"
+  },
+  {
+    "id": 17885,
+    "name": "Stemphylium leaf blight and stalk rot",
+    "scientific_name": "Stemphylium vesicarium"
+  },
+  {
+    "id": 18900,
+    "name": "Stemphylium leaf spot",
+    "scientific_name": "Stemphylium botryosum"
+  },
+  {
+    "id": 13489,
+    "name": "Stigmina fungus",
+    "scientific_name": "Wilsonomyces carpophilus"
+  },
+  {
+    "id": 17888,
+    "name": "Stigmina leaf spot",
+    "scientific_name": "Stigmina lautii"
+  },
+  {
+    "id": 17889,
+    "name": "Stigmina leaf spot",
+    "scientific_name": "Stigmina palmivora"
+  },
+  {
+    "id": 55972,
+    "name": "Stigmina leaf spot",
+    "scientific_name": "Cercospora mangiferae"
+  },
+  {
+    "id": 20832,
+    "name": "Stigmina leaf spots",
+    "scientific_name": "Stigmina spp."
+  },
+  {
+    "id": 11239,
+    "name": "strawberry crinkle virus (SCrV)",
+    "scientific_name": "Cytorhabdovirus SCrV"
+  },
+  {
+    "id": 11241,
+    "name": "strawberry latent ringspot virus (SLRSV)",
+    "scientific_name": "Nepovirus SLRSV"
+  },
+  {
+    "id": 9487,
+    "name": "strawberry leaf spot",
+    "scientific_name": "Mycosphaerella fragariae"
+  },
+  {
+    "id": 11242,
+    "name": "strawberry mild yellow edge virus (SMYEV)",
+    "scientific_name": "Luteovirus SMYEV"
+  },
+  {
+    "id": 11243,
+    "name": "strawberry vein banding virus (SVBV)",
+    "scientific_name": "Caulimovirus SVBV"
+  },
+  {
+    "id": 18910,
+    "name": "stripe rust",
+    "scientific_name": "Puccinia striiformis"
+  },
+  {
+    "id": 56472,
+    "name": "sugarcane mosaic virus",
+    "scientific_name": "Potyvirus SCMV"
+  },
+  {
+    "id": 17731,
+    "name": "Summer black stem",
+    "scientific_name": "Cercospora medicaginis"
+  },
+  {
+    "id": 17799,
+    "name": "summer patch",
+    "scientific_name": "Magnaporthe poae"
+  },
+  {
+    "id": 691,
+    "name": "Swiss needle cast",
+    "scientific_name": "Phaeocryptopus gaeumannii"
+  },
+  {
+    "id": 661,
+    "name": "sycamore anthracnose",
+    "scientific_name": "Apiognomonia veneta"
+  },
+  {
+    "id": 17784,
+    "name": "take-all root rot",
+    "scientific_name": "Gaeumannomyces graminis var. tritici"
+  },
+  {
+    "id": 17772,
+    "name": "tan spot",
+    "scientific_name": "Pyrenophora tritici-repentis"
+  },
+  {
+    "id": 13841,
+    "name": "Taphrina flower fungus",
+    "scientific_name": "Taphrina johansonii"
+  },
+  {
+    "id": 13487,
+    "name": "tar spot",
+    "scientific_name": "Rhytisma punctatum"
+  },
+  {
+    "id": 18254,
+    "name": "tar spot",
+    "scientific_name": "Rhytisma americanum"
+  },
+  {
+    "id": 55981,
+    "name": "tar spot",
+    "scientific_name": "Phyllachora afzeliae"
+  },
+  {
+    "id": 19091,
+    "name": "tar spot",
+    "scientific_name": "Rhytisma salicinum"
+  },
+  {
+    "id": 858,
+    "name": "tar spot needlecast",
+    "scientific_name": "Davisomycella ampla"
+  },
+  {
+    "id": 967,
+    "name": "tar spot of maple",
+    "scientific_name": "Rhytisma acerinum"
+  },
+  {
+    "id": 968,
+    "name": "tar spots",
+    "scientific_name": "Rhytisma spp."
+  },
+  {
+    "id": 11246,
+    "name": "tomato black ring virus (TBRV)",
+    "scientific_name": "Nepovirus TBRV"
+  },
+  {
+    "id": 11249,
+    "name": "tomato ringspot virus (ToRSV)",
+    "scientific_name": "Nepovirus ToRSV"
+  },
+  {
+    "id": 13482,
+    "name": "tracheomycosis",
+    "scientific_name": ""
+  },
+  {
+    "id": 20815,
+    "name": "twig and leaf blight",
+    "scientific_name": "Blumeriella kerriae"
+  },
+  {
+    "id": 78907,
+    "name": "Twig canker",
+    "scientific_name": "Gibbera vaccinicola"
+  },
+  {
+    "id": 10940,
+    "name": "twist rust",
+    "scientific_name": "Melampsora populnea"
+  },
+  {
+    "id": 989,
+    "name": "Venturia leaf scabs and blights",
+    "scientific_name": "Venturia spp."
+  },
+  {
+    "id": 17903,
+    "name": "Volutella blight",
+    "scientific_name": "Volutella buxi"
+  },
+  {
+    "id": 17904,
+    "name": "Volutella blight",
+    "scientific_name": "Volutella pachysandrae"
+  },
+  {
+    "id": 79400,
+    "name": "Volutella blight",
+    "scientific_name": "Volutella spp."
+  },
+  {
+    "id": 15456,
+    "name": "Volutella blight of pachysandra",
+    "scientific_name": "Volutella pachysandricola"
+  },
+  {
+    "id": 674,
+    "name": "walnut anthracnose",
+    "scientific_name": "Gnomonia leptostyla"
+  },
+  {
+    "id": 20240,
+    "name": "web blotch of peanut",
+    "scientific_name": "Phoma arachidicola"
+  },
+  {
+    "id": 17393,
+    "name": "wheat leaf rust",
+    "scientific_name": "Puccinia recondita"
+  },
+  {
+    "id": 9412,
+    "name": "wheat stem rust",
+    "scientific_name": "Puccinia graminis"
+  },
+  {
+    "id": 9515,
+    "name": "white leaf spot",
+    "scientific_name": "Cercospora brassicicola"
+  },
+  {
+    "id": 14304,
+    "name": "White Leaf Spot",
+    "scientific_name": "Pseudocercosporella albida"
+  },
+  {
+    "id": 80886,
+    "name": "white leaf spot",
+    "scientific_name": "Mycosphaerella capsellae"
+  },
+  {
+    "id": 14288,
+    "name": "White Leaf Streak of Rice",
+    "scientific_name": "Mycovellosiella oryzae"
+  },
+  {
+    "id": 682,
+    "name": "white pine needlecast",
+    "scientific_name": "Lophodermella arcuata"
+  },
+  {
+    "id": 17740,
+    "name": "white spot",
+    "scientific_name": "Pseudocercosporella capsellae"
+  },
+  {
+    "id": 12471,
+    "name": "willow rust",
+    "scientific_name": "Melampsora salicina"
+  },
+  {
+    "id": 988,
+    "name": "willow scab",
+    "scientific_name": "Venturia saliciperda"
+  },
+  {
+    "id": 15438,
+    "name": "witches broom rust",
+    "scientific_name": "Gymnosporangium nelsonii"
+  },
+  {
+    "id": 14265,
+    "name": "Xanthomonas leaf blight of onion",
+    "scientific_name": "Xanthomonas axonopodis pv. allii"
+  },
+  {
+    "id": 9464,
+    "name": "yellow leaf blotch",
+    "scientific_name": "Pseudopeziza jonesii"
+  },
+  {
+    "id": 2601,
+    "name": "zonate leaf spot",
+    "scientific_name": "Grovesinia pyramidalis"
+  }
+]

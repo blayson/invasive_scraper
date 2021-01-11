@@ -1,0 +1,1007 @@
+[
+  {
+    "id": 525,
+    "name": "brown root rot",
+    "scientific_name": "Phellinus noxius "
+  },
+  {
+    "id": 527,
+    "name": "Phytophthora root rot",
+    "scientific_name": "Phytophthora cinnamomi "
+  },
+  {
+    "id": 529,
+    "name": "Phytophthora root disease of Port Orford cedar",
+    "scientific_name": "Phytophthora lateralis "
+  },
+  {
+    "id": 532,
+    "name": "crown gall",
+    "scientific_name": "Rhizobium radiobacter "
+  },
+  {
+    "id": 548,
+    "name": "black rot",
+    "scientific_name": "Ceratocystis fimbriata "
+  },
+  {
+    "id": 550,
+    "name": "chestnut blight or canker",
+    "scientific_name": "Cryphonectria parasitica "
+  },
+  {
+    "id": 568,
+    "name": "European larch canker",
+    "scientific_name": "Lachnellula willkommii "
+  },
+  {
+    "id": 569,
+    "name": "beech bark disease",
+    "scientific_name": "Nectria coccinea "
+  },
+  {
+    "id": 578,
+    "name": "butternut canker",
+    "scientific_name": "Sirococcus clavigignenti-juglandacearum "
+  },
+  {
+    "id": 643,
+    "name": "Dutch elm disease",
+    "scientific_name": "Ophiostoma ulmi "
+  },
+  {
+    "id": 645,
+    "name": "mimosa wilt",
+    "scientific_name": "Fusarium oxysporum f.sp. perniciosum"
+  },
+  {
+    "id": 647,
+    "name": "bacterial leaf scorch",
+    "scientific_name": "Xylella fastidiosa "
+  },
+  {
+    "id": 661,
+    "name": "sycamore anthracnose",
+    "scientific_name": "Apiognomonia veneta "
+  },
+  {
+    "id": 670,
+    "name": "dogwood anthracnose",
+    "scientific_name": "Discula destructiva "
+  },
+  {
+    "id": 688,
+    "name": "Dothistroma needle blight",
+    "scientific_name": "Mycosphaerella pini "
+  },
+  {
+    "id": 706,
+    "name": "Diplodia blight",
+    "scientific_name": "Sphaeropsis sapinea "
+  },
+  {
+    "id": 722,
+    "name": "white pine blister rust",
+    "scientific_name": "Cronartium ribicola "
+  },
+  {
+    "id": 897,
+    "name": "Leptographium root disease",
+    "scientific_name": "Leptographium procerum "
+  },
+  {
+    "id": 904,
+    "name": "brown spot needle blight of pine",
+    "scientific_name": "Mycosphaerella dearnessii "
+  },
+  {
+    "id": 929,
+    "name": "Neonectria cankers",
+    "scientific_name": "Neonectria spp. "
+  },
+  {
+    "id": 953,
+    "name": "Phytophthora root and crown rots",
+    "scientific_name": "Phytophthora spp. "
+  },
+  {
+    "id": 983,
+    "name": "turkey tail",
+    "scientific_name": "Trametes versicolor "
+  },
+  {
+    "id": 4017,
+    "name": "Armillaria root rot",
+    "scientific_name": "Armillaria limonea "
+  },
+  {
+    "id": 4018,
+    "name": "Armillaria root rot",
+    "scientific_name": "Armillaria novae-zelandiae "
+  },
+  {
+    "id": 4027,
+    "name": "ceratocystis wilt of Cacao",
+    "scientific_name": "Ceratocystis moniliformis "
+  },
+  {
+    "id": 4028,
+    "name": "blue stain of beech",
+    "scientific_name": "Ophiostoma nothofagi "
+  },
+  {
+    "id": 4029,
+    "name": "wood-staining fungi",
+    "scientific_name": "Ceratocystis novae-zelandiae "
+  },
+  {
+    "id": 4030,
+    "name": "myrtle wilt",
+    "scientific_name": "Thielaviopsis australis "
+  },
+  {
+    "id": 4037,
+    "name": "Cyclaneusma needle cast",
+    "scientific_name": "Cyclaneusma minus "
+  },
+  {
+    "id": 4043,
+    "name": "pink disease",
+    "scientific_name": "Erythricium salmonicolor "
+  },
+  {
+    "id": 4044,
+    "name": "Ganoderma root and butt rot",
+    "scientific_name": "Ganoderma mastoporum "
+  },
+  {
+    "id": 4053,
+    "name": "wood decay",
+    "scientific_name": "Ischnoderma rosulata "
+  },
+  {
+    "id": 4054,
+    "name": "corm dry rot",
+    "scientific_name": "Junghuhnia vincta "
+  },
+  {
+    "id": 4057,
+    "name": "Leptographium root disease",
+    "scientific_name": "Leptographium truncatum "
+  },
+  {
+    "id": 4063,
+    "name": "blue stain",
+    "scientific_name": "Ophiostoma huntii "
+  },
+  {
+    "id": 4064,
+    "name": "blue stain",
+    "scientific_name": "Ophiostoma ips "
+  },
+  {
+    "id": 4065,
+    "name": "blue stain",
+    "scientific_name": "Ophiostoma piceae "
+  },
+  {
+    "id": 4066,
+    "name": "blue stain",
+    "scientific_name": "Ophiostoma piceaperdum "
+  },
+  {
+    "id": 4067,
+    "name": "blue stain",
+    "scientific_name": "Ophiostoma piliferum "
+  },
+  {
+    "id": 4068,
+    "name": "blue stain",
+    "scientific_name": "Ceratocystis tenella "
+  },
+  {
+    "id": 4069,
+    "name": "blue stain",
+    "scientific_name": "Ophiostoma valdivianum "
+  },
+  {
+    "id": 4072,
+    "name": "stem decay, heart rot",
+    "scientific_name": "Phellinus senex "
+  },
+  {
+    "id": 4073,
+    "name": "wood decay",
+    "scientific_name": "Phlebia chrysocrea "
+  },
+  {
+    "id": 4094,
+    "name": "wood decay",
+    "scientific_name": "Stereum spp. "
+  },
+  {
+    "id": 4098,
+    "name": "bacterial canker of poplar",
+    "scientific_name": "Xanthomonas populi "
+  },
+  {
+    "id": 4248,
+    "name": "rose rosette disease (RRD)",
+    "scientific_name": "Emaravirus RRD "
+  },
+  {
+    "id": 4600,
+    "name": "Cornuvesica falcata",
+    "scientific_name": "Cornuvesica falcata "
+  },
+  {
+    "id": 4602,
+    "name": "blue stain",
+    "scientific_name": "Ophiostoma pluriannulatum "
+  },
+  {
+    "id": 4603,
+    "name": "sudden oak death",
+    "scientific_name": "Phytophthora ramorum "
+  },
+  {
+    "id": 4656,
+    "name": "muscadine disease",
+    "scientific_name": "Beauveria spp. "
+  },
+  {
+    "id": 4732,
+    "name": "Graminicolous rusts",
+    "scientific_name": "Uredo dioscoreae-alatae "
+  },
+  {
+    "id": 4735,
+    "name": "sweet potato scab",
+    "scientific_name": "Elsinoe batatas "
+  },
+  {
+    "id": 4737,
+    "name": "Cercospora blight",
+    "scientific_name": "Cercospora batatae "
+  },
+  {
+    "id": 4744,
+    "name": "sugarcane downy mildew",
+    "scientific_name": "Peronosclerospora sacchari "
+  },
+  {
+    "id": 4745,
+    "name": "java downy mildew",
+    "scientific_name": "Peronosclerospora maydis "
+  },
+  {
+    "id": 4751,
+    "name": "sweet orange scab",
+    "scientific_name": "Elsinoe australis "
+  },
+  {
+    "id": 4756,
+    "name": "spruce rust",
+    "scientific_name": "Chrysomyxa abietis "
+  },
+  {
+    "id": 4757,
+    "name": "Douglas fir canker",
+    "scientific_name": "Allantophomopsis pseudotsuga "
+  },
+  {
+    "id": 4758,
+    "name": "acacia gall rust",
+    "scientific_name": "Uromycladium tepperianum "
+  },
+  {
+    "id": 4762,
+    "name": "rust",
+    "scientific_name": "Pucciniastrum actinidae "
+  },
+  {
+    "id": 4769,
+    "name": "spruce needle rust",
+    "scientific_name": "Chrysomyxa himalensis "
+  },
+  {
+    "id": 4772,
+    "name": "cherry-spruce rust",
+    "scientific_name": "Pucciniastrum areolatum "
+  },
+  {
+    "id": 4774,
+    "name": "seeding disease",
+    "scientific_name": "Fusarium fuliginosporum "
+  },
+  {
+    "id": 4775,
+    "name": "rust",
+    "scientific_name": "Uromyces nyikensis "
+  },
+  {
+    "id": 4776,
+    "name": "gladiolus rust",
+    "scientific_name": "Uromyces transversalis "
+  },
+  {
+    "id": 4780,
+    "name": "chrysanthemum white rust",
+    "scientific_name": "Puccinia horiana "
+  },
+  {
+    "id": 4781,
+    "name": "Parasitic leaf fungus",
+    "scientific_name": "Pestalotiopsis disseminata "
+  },
+  {
+    "id": 4803,
+    "name": "rust",
+    "scientific_name": "Aecidium hydrangeae-paniculatea "
+  },
+  {
+    "id": 4810,
+    "name": "needlecast",
+    "scientific_name": "Stigmina deflectens "
+  },
+  {
+    "id": 4825,
+    "name": "Scots Pine Blister Rust",
+    "scientific_name": "Cronartium flaccidium "
+  },
+  {
+    "id": 4855,
+    "name": "white rot",
+    "scientific_name": "Stereum hiugense "
+  },
+  {
+    "id": 4881,
+    "name": "Witches broom fungus",
+    "scientific_name": "Crinipellis perniciosa "
+  },
+  {
+    "id": 4882,
+    "name": "watery pod rot",
+    "scientific_name": "Moniliophthora roreri "
+  },
+  {
+    "id": 4883,
+    "name": "Vascular streak dieback",
+    "scientific_name": "Oncobasidium theobromae "
+  },
+  {
+    "id": 4884,
+    "name": "Mealy pod diseases of cushy gall disease",
+    "scientific_name": "Trachysphaera fructigena "
+  },
+  {
+    "id": 4895,
+    "name": "white root rot",
+    "scientific_name": "Rosellinia necratrix "
+  },
+  {
+    "id": 4897,
+    "name": "rust",
+    "scientific_name": "Puccinia maccleanii "
+  },
+  {
+    "id": 4898,
+    "name": "Graminicolous rusts",
+    "scientific_name": "Uredo gladioli-buttneri "
+  },
+  {
+    "id": 4899,
+    "name": "rust",
+    "scientific_name": "Uromyces gladioli "
+  },
+  {
+    "id": 4900,
+    "name": "mulberry rust",
+    "scientific_name": "Aecidium mori "
+  },
+  {
+    "id": 4906,
+    "name": "Leaf, branch & fruit fungus",
+    "scientific_name": "Diaporthe mali "
+  },
+  {
+    "id": 4907,
+    "name": "Septoria melanosa",
+    "scientific_name": "Septoria melanosa "
+  },
+  {
+    "id": 4909,
+    "name": "brown rot of fruit",
+    "scientific_name": "Monilinia fructigena "
+  },
+  {
+    "id": 4916,
+    "name": "Rotbrenner",
+    "scientific_name": "Pseudopezicula tracheiphila "
+  },
+  {
+    "id": 4917,
+    "name": "Rhacodiella vitis",
+    "scientific_name": "Rhacodiella vitis "
+  },
+  {
+    "id": 4923,
+    "name": "gladiolus rust",
+    "scientific_name": "Puccinia gladioli "
+  },
+  {
+    "id": 4925,
+    "name": "Phialophora wilt",
+    "scientific_name": "Phialophora cinerescens "
+  },
+  {
+    "id": 4927,
+    "name": "leaf smut of rice",
+    "scientific_name": "Entyloma oryzae "
+  },
+  {
+    "id": 4928,
+    "name": "glume blotch",
+    "scientific_name": "Melanomma glumarum "
+  },
+  {
+    "id": 4929,
+    "name": "blight",
+    "scientific_name": "Oospora oryzetorum "
+  },
+  {
+    "id": 4945,
+    "name": "karnal bunt",
+    "scientific_name": "Tilletia indica "
+  },
+  {
+    "id": 4946,
+    "name": "coffee leaf rust",
+    "scientific_name": "Hemileia vastatrix "
+  },
+  {
+    "id": 4949,
+    "name": "Fungal disease of bees",
+    "scientific_name": "Cordyceps spp. "
+  },
+  {
+    "id": 4962,
+    "name": "flag smut",
+    "scientific_name": "Urocystis agropyri "
+  },
+  {
+    "id": 4964,
+    "name": "flag smut",
+    "scientific_name": "Urocystis tritici "
+  },
+  {
+    "id": 4969,
+    "name": "potato wart disease",
+    "scientific_name": "Synchytrium endobioticum "
+  },
+  {
+    "id": 4977,
+    "name": "Japanese pear rust",
+    "scientific_name": "Gymnosporangium asiaticum "
+  },
+  {
+    "id": 4978,
+    "name": "red stele",
+    "scientific_name": "Phytophthora fragariae "
+  },
+  {
+    "id": 4998,
+    "name": "entomophagus fungi",
+    "scientific_name": "Entomophthora spp. "
+  },
+  {
+    "id": 6903,
+    "name": "tomato spotted wilt virus (TSWV)",
+    "scientific_name": "Tospovirus TSWV "
+  },
+  {
+    "id": 6948,
+    "name": "tobacco mosaic virus (TMV)",
+    "scientific_name": "Tobamovirus TMV "
+  },
+  {
+    "id": 9298,
+    "name": "soybean rust",
+    "scientific_name": "Phakopsora pachyrhizi "
+  },
+  {
+    "id": 9301,
+    "name": "mal secco",
+    "scientific_name": "Phoma tracheiphila "
+  },
+  {
+    "id": 9383,
+    "name": "tomato yellow leaf curl virus (TYLCV)",
+    "scientific_name": "Begomovirus TYLCV "
+  },
+  {
+    "id": 9385,
+    "name": "plum pox virus (PPV)",
+    "scientific_name": "Potyvirus PPV "
+  },
+  {
+    "id": 9412,
+    "name": "wheat stem rust",
+    "scientific_name": "Puccinia graminis "
+  },
+  {
+    "id": 9484,
+    "name": "bacterial brown spot of bean/canker of stone fruit, twig blight",
+    "scientific_name": "Pseudomonas syringae pv. syringae"
+  },
+  {
+    "id": 10470,
+    "name": "sorghum ergot",
+    "scientific_name": "Claviceps africana "
+  },
+  {
+    "id": 10498,
+    "name": "Corn stunt",
+    "scientific_name": "Spiroplasma kunkelii "
+  },
+  {
+    "id": 10662,
+    "name": "coconut cadang-cadang viroid (CCCVd)",
+    "scientific_name": "Cocadviroid CCCVd "
+  },
+  {
+    "id": 10731,
+    "name": "black currant reversion virus (BRV)",
+    "scientific_name": "Nepovirus BRV "
+  },
+  {
+    "id": 10733,
+    "name": "Stolbur",
+    "scientific_name": "Candidatus Phytoplasma solani "
+  },
+  {
+    "id": 10737,
+    "name": "potato mop top virus (PMTV)",
+    "scientific_name": "Carlavirus PMTV "
+  },
+  {
+    "id": 10789,
+    "name": "Gibberella stalk rot",
+    "scientific_name": "Gibberella zeae "
+  },
+  {
+    "id": 10796,
+    "name": "late blight",
+    "scientific_name": "Phytophthora infestans "
+  },
+  {
+    "id": 10799,
+    "name": "wheat smut",
+    "scientific_name": "Tilletia caries "
+  },
+  {
+    "id": 10866,
+    "name": "brown stripe downy mildew of maize",
+    "scientific_name": "Sclerophthora rayssiae var.  zeae"
+  },
+  {
+    "id": 10921,
+    "name": "exotic newcastle disease (NDV)",
+    "scientific_name": "Avulavirus NDV "
+  },
+  {
+    "id": 10924,
+    "name": "avian influenza virus (HAPV)",
+    "scientific_name": "Influenzavirus HPAV "
+  },
+  {
+    "id": 10937,
+    "name": "palm lethal yellowing",
+    "scientific_name": "Candidatus Phytoplasma palmae PLY"
+  },
+  {
+    "id": 10943,
+    "name": "bean common mosaic virus (BCMV)",
+    "scientific_name": "Potyvirus BCMV "
+  },
+  {
+    "id": 10972,
+    "name": "Collybia fungus",
+    "scientific_name": "Collybia fusipes "
+  },
+  {
+    "id": 10980,
+    "name": "violet root rot",
+    "scientific_name": "Helicobasidium longisporum "
+  },
+  {
+    "id": 10985,
+    "name": "Ophiostoma longicollum",
+    "scientific_name": "Ophiostoma longicollum "
+  },
+  {
+    "id": 10986,
+    "name": "Phytophthora quercina",
+    "scientific_name": "Phytophthora quercina "
+  },
+  {
+    "id": 10987,
+    "name": "Phytophthora disease of alders",
+    "scientific_name": "Phytophthora alni "
+  },
+  {
+    "id": 11049,
+    "name": "bacterial wilt",
+    "scientific_name": "Clavibacter michiganensis ssp. insidiosus"
+  },
+  {
+    "id": 11051,
+    "name": "ring rot of potato",
+    "scientific_name": "Clavibacter michiganensis ssp. sepedonicus"
+  },
+  {
+    "id": 11113,
+    "name": "Brown needle blight of pine",
+    "scientific_name": "Mycosphaerella gibsonii "
+  },
+  {
+    "id": 11182,
+    "name": "bacterial leaf blight of rice",
+    "scientific_name": "Xanthomonas oryzae pv. oryzae"
+  },
+  {
+    "id": 11184,
+    "name": "bacterial leaf streak",
+    "scientific_name": "Xanthomonas oryzae pv. oryzicola"
+  },
+  {
+    "id": 11204,
+    "name": "cherry leaf roll virus (CLRV)",
+    "scientific_name": "Nepovirus CLRV "
+  },
+  {
+    "id": 11246,
+    "name": "tomato black ring virus (TBRV)",
+    "scientific_name": "Nepovirus TBRV "
+  },
+  {
+    "id": 11337,
+    "name": "pitch canker",
+    "scientific_name": "Fusarium circinatum "
+  },
+  {
+    "id": 11854,
+    "name": "European stone fruit yellows",
+    "scientific_name": "Candidatus Phytoplasma prunorum ESFY"
+  },
+  {
+    "id": 11858,
+    "name": "apple proliferation phytoplasma",
+    "scientific_name": "Candidatus Phytoplasma mali AP-MLO"
+  },
+  {
+    "id": 11865,
+    "name": "Philippine downy mildew",
+    "scientific_name": "Peronosclerospora philippinensis "
+  },
+  {
+    "id": 11872,
+    "name": "Flavescence Doree Phytoplasma",
+    "scientific_name": "Candidatus Phytoplasma vitis FDP"
+  },
+  {
+    "id": 11884,
+    "name": "Australian Grapevine Yellows",
+    "scientific_name": "Candidatus Phytoplasma australiense AUSGY"
+  },
+  {
+    "id": 11936,
+    "name": "potato spindle tuber viroid (PSTVd)",
+    "scientific_name": "Pospiviroid PSTVd "
+  },
+  {
+    "id": 12134,
+    "name": "daylily rust",
+    "scientific_name": "Puccinia hemerocallidis "
+  },
+  {
+    "id": 12256,
+    "name": "fowlpox virus (FWPV)",
+    "scientific_name": "Avipoxvirus FWPV "
+  },
+  {
+    "id": 12257,
+    "name": "West Nile virus (WNV)",
+    "scientific_name": "Flavivirus WNV "
+  },
+  {
+    "id": 12264,
+    "name": "toxic cyanobacteria",
+    "scientific_name": "Cylindrospermopsis raciborskii "
+  },
+  {
+    "id": 12310,
+    "name": "Amylostereum rot",
+    "scientific_name": "Amylostereum areolatum "
+  },
+  {
+    "id": 13092,
+    "name": "blueberry scorch virus (BlSV)",
+    "scientific_name": "Carlavirus BlSV "
+  },
+  {
+    "id": 13873,
+    "name": "Asian kelp",
+    "scientific_name": "Undaria pinnatifida "
+  },
+  {
+    "id": 14263,
+    "name": "asian pear blight",
+    "scientific_name": "Erwinia pyrifoliae "
+  },
+  {
+    "id": 14602,
+    "name": "Bean Common Mosaic Necrosis Virus",
+    "scientific_name": "Potyvirus BCMNV "
+  },
+  {
+    "id": 14607,
+    "name": "iris yellow spot virus (IYSV)",
+    "scientific_name": "Tospovirus IYSV "
+  },
+  {
+    "id": 15178,
+    "name": "Phytophthora kernoviae",
+    "scientific_name": "Phytophthora kernoviae "
+  },
+  {
+    "id": 15309,
+    "name": "rock snot",
+    "scientific_name": "Didymosphenia geminata "
+  },
+  {
+    "id": 17872,
+    "name": "white rot",
+    "scientific_name": "Stromatinia cepivora "
+  },
+  {
+    "id": 17884,
+    "name": "powdery mildew",
+    "scientific_name": "Podosphaera macularis "
+  },
+  {
+    "id": 18929,
+    "name": "Fusarium wilt",
+    "scientific_name": "Fusarium oxysporum f.sp. cubense"
+  },
+  {
+    "id": 18972,
+    "name": "Phoma blight",
+    "scientific_name": "Phoma sorghina "
+  },
+  {
+    "id": 19383,
+    "name": "beech bark disease",
+    "scientific_name": "Neonectria faginata "
+  },
+  {
+    "id": 19386,
+    "name": "Dutch elm disease (novi-ulmi)",
+    "scientific_name": "Ophiostoma novo-ulmi "
+  },
+  {
+    "id": 20574,
+    "name": "bacterial streak, black rot, and blight",
+    "scientific_name": "Xanthomonas campestris "
+  },
+  {
+    "id": 20579,
+    "name": "Plum Pox Virus - D-Strain",
+    "scientific_name": "Potyvirus PPV D Strain"
+  },
+  {
+    "id": 20765,
+    "name": "beech bark disease",
+    "scientific_name": "Neonectria ditissima "
+  },
+  {
+    "id": 20929,
+    "name": "laurel wilt",
+    "scientific_name": "Raffaelea lauricola "
+  },
+  {
+    "id": 21291,
+    "name": "Cucumber Green Mottle Mosaic Virus",
+    "scientific_name": "Tobamovirus CGMMV "
+  },
+  {
+    "id": 21299,
+    "name": "Phytophthora root rot",
+    "scientific_name": "Phytophthora austrocedrae "
+  },
+  {
+    "id": 21971,
+    "name": "potato brown wilt",
+    "scientific_name": "Ralstonia solanacearum Race 3 Biovar 2"
+  },
+  {
+    "id": 21973,
+    "name": "annual ryegrass toxicity",
+    "scientific_name": "Rathayibacter toxicus "
+  },
+  {
+    "id": 22004,
+    "name": "persimmon wilt",
+    "scientific_name": "Acremonium diospyri "
+  },
+  {
+    "id": 22253,
+    "name": "late wilt of corn",
+    "scientific_name": "Harpophora maydis "
+  },
+  {
+    "id": 22299,
+    "name": "Raffaelea fungus",
+    "scientific_name": "Raffaelea quercivora "
+  },
+  {
+    "id": 22305,
+    "name": "Transmissible Mink Encephalopathy",
+    "scientific_name": "Agents of Spongiform Encephalopathy TME "
+  },
+  {
+    "id": 22306,
+    "name": "Chronic Wasting Disease",
+    "scientific_name": "Agents of Spongiform Encephalopathy CWD "
+  },
+  {
+    "id": 22522,
+    "name": "Baculovirus of Shrimp",
+    "scientific_name": "Baculovirus penaei "
+  },
+  {
+    "id": 22525,
+    "name": "Yellow Head Virus",
+    "scientific_name": "Okavirus  "
+  },
+  {
+    "id": 22527,
+    "name": "Large Mouth Bass Virus",
+    "scientific_name": "Ranavirus LMBV "
+  },
+  {
+    "id": 22529,
+    "name": "Infectious Haematopeietic Necrosis Virus",
+    "scientific_name": "Novirhabdovirus  "
+  },
+  {
+    "id": 22532,
+    "name": "Taura Syndrome Virus",
+    "scientific_name": "Cripavirus TSV "
+  },
+  {
+    "id": 22533,
+    "name": "Epizootic Haematopoietic Necrosis",
+    "scientific_name": "Ranavirus  "
+  },
+  {
+    "id": 22534,
+    "name": "Bacterial Kidney Disease",
+    "scientific_name": "Renibacterium salmoninarum "
+  },
+  {
+    "id": 22535,
+    "name": "Spring Viremia of Carp Virus",
+    "scientific_name": "Rhabdovirus SVCV "
+  },
+  {
+    "id": 22536,
+    "name": "Viral Hemorrhagic Septicemia Virus",
+    "scientific_name": "Rhabdovirus VHSV "
+  },
+  {
+    "id": 22537,
+    "name": "Infectious Hypodermal Haematopoietic Necrosis",
+    "scientific_name": "Parvovirus IHHN "
+  },
+  {
+    "id": 22538,
+    "name": "White Spot Disease",
+    "scientific_name": "Whispovirus  "
+  },
+  {
+    "id": 56381,
+    "name": "Blueberry Shock Virus",
+    "scientific_name": "Ilarvirus B1ShV "
+  },
+  {
+    "id": 56599,
+    "name": "thousand cankers disease",
+    "scientific_name": "Geosmithia morbida "
+  },
+  {
+    "id": 56748,
+    "name": "Stewart's wilt",
+    "scientific_name": "Pantoea stewartii "
+  },
+  {
+    "id": 57268,
+    "name": "Asiatic Brown Rot Fungus",
+    "scientific_name": "Monilia polystroma "
+  },
+  {
+    "id": 59014,
+    "name": "phytoplasma (general)",
+    "scientific_name": "Candidatus Phytoplasma spp. "
+  },
+  {
+    "id": 60516,
+    "name": "Boxwood blight",
+    "scientific_name": "Calonectria pseudonaviculata "
+  },
+  {
+    "id": 62122,
+    "name": "bacterial fruit blotch",
+    "scientific_name": "Acidovorax avenae ssp. citrulli"
+  },
+  {
+    "id": 70943,
+    "name": "Groundnut Bud Necrosis Virus",
+    "scientific_name": "Tospovirus GBNV "
+  },
+  {
+    "id": 77280,
+    "name": "Nectria canker",
+    "scientific_name": "Nectria coccinea var. faginata"
+  },
+  {
+    "id": 77762,
+    "name": "Pine witches\u2019 broom",
+    "scientific_name": "Phytoplasma pini 16SrXXI-A "
+  },
+  {
+    "id": 77763,
+    "name": "flavescence dor\u00e9e",
+    "scientific_name": "Phytoplasma vitis 16SrV-C "
+  },
+  {
+    "id": 78816,
+    "name": "snake fungal disease",
+    "scientific_name": "Ophidiomyces ophiodiicola "
+  },
+  {
+    "id": 80183,
+    "name": "white-nose syndrome",
+    "scientific_name": "Pseudogymnoascus destructans "
+  },
+  {
+    "id": 80506,
+    "name": "smut",
+    "scientific_name": "Tilletia spp. "
+  },
+  {
+    "id": 82878,
+    "name": "cyanobacteria",
+    "scientific_name": "Stigonematales spp. "
+  },
+  {
+    "id": 84721,
+    "name": "amphibian Ranaviruses",
+    "scientific_name": "Ranavirus spp. "
+  },
+  {
+    "id": 86138,
+    "name": "Neonectria canker of Abies",
+    "scientific_name": "Neonectria neomacrospora "
+  },
+  {
+    "id": 86146,
+    "name": "Iridovirus",
+    "scientific_name": "Iridovirus spp. "
+  },
+  {
+    "id": 86451,
+    "name": "oak wilt",
+    "scientific_name": "Bretziella fagacearum "
+  }
+]

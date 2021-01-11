@@ -1,0 +1,707 @@
+[
+  {
+    "id": 22903,
+    "name": "abiotic stresses (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 56194,
+    "name": "abrasion",
+    "scientific_name": ""
+  },
+  {
+    "id": 758,
+    "name": "air pollutants",
+    "scientific_name": ""
+  },
+  {
+    "id": 65181,
+    "name": "alcohol flux",
+    "scientific_name": ""
+  },
+  {
+    "id": 57433,
+    "name": "allelopathy",
+    "scientific_name": ""
+  },
+  {
+    "id": 18120,
+    "name": "aluminum toxicity",
+    "scientific_name": ""
+  },
+  {
+    "id": 18293,
+    "name": "ash decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 13916,
+    "name": "aspen decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 59358,
+    "name": "asphyxiation",
+    "scientific_name": ""
+  },
+  {
+    "id": 14202,
+    "name": "black ash decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 9505,
+    "name": "blossom end rot",
+    "scientific_name": ""
+  },
+  {
+    "id": 18132,
+    "name": "boron deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 18692,
+    "name": "boron toxicity",
+    "scientific_name": ""
+  },
+  {
+    "id": 910,
+    "name": "burl and decay",
+    "scientific_name": ""
+  },
+  {
+    "id": 23180,
+    "name": "burr knot",
+    "scientific_name": ""
+  },
+  {
+    "id": 77314,
+    "name": "cachexia",
+    "scientific_name": ""
+  },
+  {
+    "id": 18131,
+    "name": "calcium deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 6993,
+    "name": "canvas burn",
+    "scientific_name": ""
+  },
+  {
+    "id": 20909,
+    "name": "catfacing",
+    "scientific_name": ""
+  },
+  {
+    "id": 759,
+    "name": "chemicals",
+    "scientific_name": ""
+  },
+  {
+    "id": 18121,
+    "name": "chloride deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 57438,
+    "name": "chlorosis (general symptom)",
+    "scientific_name": ""
+  },
+  {
+    "id": 10691,
+    "name": "Chlorotic ringspot agent",
+    "scientific_name": ""
+  },
+  {
+    "id": 11278,
+    "name": "citrus blight disease",
+    "scientific_name": ""
+  },
+  {
+    "id": 23059,
+    "name": "cold injury (low temperature)",
+    "scientific_name": ""
+  },
+  {
+    "id": 62866,
+    "name": "cold water injury",
+    "scientific_name": ""
+  },
+  {
+    "id": 18122,
+    "name": "copper deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 18694,
+    "name": "copper toxicity",
+    "scientific_name": ""
+  },
+  {
+    "id": 62496,
+    "name": "crown decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 58983,
+    "name": "damping off (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 912,
+    "name": "defoliation due to unknown cause",
+    "scientific_name": ""
+  },
+  {
+    "id": 23077,
+    "name": "desication (wind burn)",
+    "scientific_name": ""
+  },
+  {
+    "id": 22958,
+    "name": "dieback",
+    "scientific_name": ""
+  },
+  {
+    "id": 760,
+    "name": "drought",
+    "scientific_name": ""
+  },
+  {
+    "id": 6965,
+    "name": "drowning",
+    "scientific_name": ""
+  },
+  {
+    "id": 18042,
+    "name": "edema",
+    "scientific_name": ""
+  },
+  {
+    "id": 56009,
+    "name": "Epidermal Separation (silvering)",
+    "scientific_name": ""
+  },
+  {
+    "id": 63022,
+    "name": "ethylene",
+    "scientific_name": ""
+  },
+  {
+    "id": 62497,
+    "name": "excessive water uptake",
+    "scientific_name": ""
+  },
+  {
+    "id": 62821,
+    "name": "exhaust",
+    "scientific_name": ""
+  },
+  {
+    "id": 805,
+    "name": "fairy rings",
+    "scientific_name": ""
+  },
+  {
+    "id": 20426,
+    "name": "fasciation",
+    "scientific_name": ""
+  },
+  {
+    "id": 11425,
+    "name": "fir and spruce canker",
+    "scientific_name": ""
+  },
+  {
+    "id": 761,
+    "name": "flooding/high water",
+    "scientific_name": ""
+  },
+  {
+    "id": 62306,
+    "name": "fluoride",
+    "scientific_name": ""
+  },
+  {
+    "id": 6964,
+    "name": "frenching",
+    "scientific_name": ""
+  },
+  {
+    "id": 768,
+    "name": "frost and winter injury (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 62825,
+    "name": "fruit cracking",
+    "scientific_name": ""
+  },
+  {
+    "id": 915,
+    "name": "galls",
+    "scientific_name": ""
+  },
+  {
+    "id": 6945,
+    "name": "genetic abnormalities",
+    "scientific_name": ""
+  },
+  {
+    "id": 21282,
+    "name": "graft incompatibility",
+    "scientific_name": ""
+  },
+  {
+    "id": 10650,
+    "name": "Grapevine Vein Yellows and Leaf Roll",
+    "scientific_name": ""
+  },
+  {
+    "id": 58729,
+    "name": "Green Stem Syndrome",
+    "scientific_name": ""
+  },
+  {
+    "id": 22899,
+    "name": "growth regulator",
+    "scientific_name": ""
+  },
+  {
+    "id": 56056,
+    "name": "gummosis",
+    "scientific_name": ""
+  },
+  {
+    "id": 10561,
+    "name": "hackberry witches' broom",
+    "scientific_name": ""
+  },
+  {
+    "id": 18324,
+    "name": "hazelnut brown stain",
+    "scientific_name": ""
+  },
+  {
+    "id": 764,
+    "name": "heat",
+    "scientific_name": ""
+  },
+  {
+    "id": 13344,
+    "name": "hickory decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 59906,
+    "name": "high soil ph",
+    "scientific_name": ""
+  },
+  {
+    "id": 6937,
+    "name": "high soluble salts",
+    "scientific_name": ""
+  },
+  {
+    "id": 77312,
+    "name": "hollow heart",
+    "scientific_name": ""
+  },
+  {
+    "id": 7004,
+    "name": "houseburn",
+    "scientific_name": ""
+  },
+  {
+    "id": 3134,
+    "name": "human caused injury",
+    "scientific_name": ""
+  },
+  {
+    "id": 18123,
+    "name": "iron deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 71034,
+    "name": "lack of chilling",
+    "scientific_name": ""
+  },
+  {
+    "id": 13463,
+    "name": "larch dieback",
+    "scientific_name": ""
+  },
+  {
+    "id": 20908,
+    "name": "leaf distortion",
+    "scientific_name": ""
+  },
+  {
+    "id": 62898,
+    "name": "leaf roll",
+    "scientific_name": ""
+  },
+  {
+    "id": 2422,
+    "name": "leaf scorches",
+    "scientific_name": ""
+  },
+  {
+    "id": 3711,
+    "name": "lignotubers",
+    "scientific_name": ""
+  },
+  {
+    "id": 9449,
+    "name": "lodging",
+    "scientific_name": ""
+  },
+  {
+    "id": 783,
+    "name": "logging damage",
+    "scientific_name": ""
+  },
+  {
+    "id": 62822,
+    "name": "low soil ph",
+    "scientific_name": ""
+  },
+  {
+    "id": 18124,
+    "name": "magnesium deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 18125,
+    "name": "manganese deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 18691,
+    "name": "manganese toxicity",
+    "scientific_name": ""
+  },
+  {
+    "id": 784,
+    "name": "mechanical",
+    "scientific_name": ""
+  },
+  {
+    "id": 58980,
+    "name": "mosaic viruses (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 65217,
+    "name": "Mulberry witches broom",
+    "scientific_name": ""
+  },
+  {
+    "id": 792,
+    "name": "multi-damage (insect/disease)",
+    "scientific_name": ""
+  },
+  {
+    "id": 20934,
+    "name": "needle droop",
+    "scientific_name": ""
+  },
+  {
+    "id": 61834,
+    "name": "nickel deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 18126,
+    "name": "nitrogen deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 766,
+    "name": "nutrient deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 18113,
+    "name": "nutrient excess or toxicity (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 823,
+    "name": "oak decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 13136,
+    "name": "oak tatters",
+    "scientific_name": ""
+  },
+  {
+    "id": 56063,
+    "name": "Ohia decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 9485,
+    "name": "orchard disease problem",
+    "scientific_name": ""
+  },
+  {
+    "id": 3112,
+    "name": "ozone",
+    "scientific_name": ""
+  },
+  {
+    "id": 20954,
+    "name": "peach wart",
+    "scientific_name": "Uncharacterised agent"
+  },
+  {
+    "id": 18127,
+    "name": "phosphorous deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 10693,
+    "name": "Phyllody agent",
+    "scientific_name": ""
+  },
+  {
+    "id": 62198,
+    "name": "planting too deep",
+    "scientific_name": ""
+  },
+  {
+    "id": 18128,
+    "name": "potassium deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 11232,
+    "name": "potato yellow vein disease (PYVD)",
+    "scientific_name": ""
+  },
+  {
+    "id": 62168,
+    "name": "powerline decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 62899,
+    "name": "puffy fruit",
+    "scientific_name": ""
+  },
+  {
+    "id": 11414,
+    "name": "red belt abiotic damage",
+    "scientific_name": ""
+  },
+  {
+    "id": 18593,
+    "name": "rhododendron shoot proliferation",
+    "scientific_name": ""
+  },
+  {
+    "id": 10728,
+    "name": "Rice yellow dwarf",
+    "scientific_name": ""
+  },
+  {
+    "id": 3113,
+    "name": "Road salt or de-icing salt",
+    "scientific_name": ""
+  },
+  {
+    "id": 3646,
+    "name": "sand pine root disease",
+    "scientific_name": ""
+  },
+  {
+    "id": 6967,
+    "name": "sandblasting",
+    "scientific_name": ""
+  },
+  {
+    "id": 3972,
+    "name": "sea salt",
+    "scientific_name": ""
+  },
+  {
+    "id": 80334,
+    "name": "shattered pit",
+    "scientific_name": ""
+  },
+  {
+    "id": 22959,
+    "name": "slime flux",
+    "scientific_name": ""
+  },
+  {
+    "id": 23069,
+    "name": "snow and ice damage (snow load)",
+    "scientific_name": ""
+  },
+  {
+    "id": 787,
+    "name": "soil compaction",
+    "scientific_name": ""
+  },
+  {
+    "id": 18133,
+    "name": "soil crusting",
+    "scientific_name": ""
+  },
+  {
+    "id": 6943,
+    "name": "soil fumigant",
+    "scientific_name": ""
+  },
+  {
+    "id": 13178,
+    "name": "spruce decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 56024,
+    "name": "straight head",
+    "scientific_name": ""
+  },
+  {
+    "id": 9486,
+    "name": "strawberry fruit rot",
+    "scientific_name": ""
+  },
+  {
+    "id": 22099,
+    "name": "sudden aspen decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 22997,
+    "name": "sudden oxygen starvation",
+    "scientific_name": ""
+  },
+  {
+    "id": 18129,
+    "name": "sulfur deficiency",
+    "scientific_name": ""
+  },
+  {
+    "id": 62305,
+    "name": "sulfur dioxide",
+    "scientific_name": ""
+  },
+  {
+    "id": 83579,
+    "name": "sunburn",
+    "scientific_name": ""
+  },
+  {
+    "id": 6966,
+    "name": "sunscald",
+    "scientific_name": ""
+  },
+  {
+    "id": 2381,
+    "name": "sycamore dieback",
+    "scientific_name": ""
+  },
+  {
+    "id": 86756,
+    "name": "tobacco false broomrape",
+    "scientific_name": ""
+  },
+  {
+    "id": 65296,
+    "name": "tomato fruit cracking",
+    "scientific_name": ""
+  },
+  {
+    "id": 62824,
+    "name": "tomato grey wall",
+    "scientific_name": ""
+  },
+  {
+    "id": 65295,
+    "name": "tomato yellow shoulder",
+    "scientific_name": ""
+  },
+  {
+    "id": 13482,
+    "name": "tracheomycosis",
+    "scientific_name": ""
+  },
+  {
+    "id": 923,
+    "name": "transplant shock",
+    "scientific_name": ""
+  },
+  {
+    "id": 20584,
+    "name": "unknown fungi",
+    "scientific_name": ""
+  },
+  {
+    "id": 9453,
+    "name": "unknown virus",
+    "scientific_name": ""
+  },
+  {
+    "id": 22062,
+    "name": "water scald",
+    "scientific_name": ""
+  },
+  {
+    "id": 22228,
+    "name": "water stress",
+    "scientific_name": ""
+  },
+  {
+    "id": 6939,
+    "name": "weather fleck",
+    "scientific_name": ""
+  },
+  {
+    "id": 77313,
+    "name": "weather scald",
+    "scientific_name": ""
+  },
+  {
+    "id": 77315,
+    "name": "weathering",
+    "scientific_name": ""
+  },
+  {
+    "id": 56002,
+    "name": "white spruce decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 3667,
+    "name": "witches' broom (general)",
+    "scientific_name": ""
+  },
+  {
+    "id": 22960,
+    "name": "yellow birch decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 20907,
+    "name": "yellow shoulder disorder",
+    "scientific_name": ""
+  },
+  {
+    "id": 926,
+    "name": "yellow-cedar decline",
+    "scientific_name": ""
+  },
+  {
+    "id": 18130,
+    "name": "zinc deficiency",
+    "scientific_name": ""
+  }
+]
