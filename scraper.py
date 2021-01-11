@@ -85,7 +85,6 @@ def prepare(data, dir_):
         })
 
         download_image(item['imgnum'], '{}/{}'.format(dir_, item['sub_name']))
-        break
     return output_data
 
 
